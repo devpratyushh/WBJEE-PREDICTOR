@@ -15,7 +15,12 @@ def load_and_train_predictor():
     Loads historical CSV data, groups into slots, 
     and trains the SVR models to output a consolidated predictions DataFrame.
     """
+    pred_file = 'data/predictions_2026.csv'
+    if os.path.exists(pred_file):
+        return pd.read_csv(pred_file)
+        
     data_files = glob.glob('data/*.csv')
+    data_files = [f for f in data_files if 'predictions' not in f]
     df_list = []
     for file in data_files:
         year_str = os.path.basename(file).split('.')[0]
@@ -142,7 +147,9 @@ def load_and_train_predictor():
             'R3': r_displays[3]
         })
         
-    return pd.DataFrame(results)
+    res_df = pd.DataFrame(results)
+    res_df.to_csv(pred_file, index=False)
+    return res_df
 
 def predict_colleges(rank, quota, category, seat_type, pred_df):
     """
