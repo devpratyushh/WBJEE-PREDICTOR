@@ -284,19 +284,46 @@ def institute_sort_key(name):
 
 # ── Floating Modern Nav Bar ──
 st.markdown("<span id='top-nav-marker'></span>", unsafe_allow_html=True)
-st.markdown("""
-<div class="top-nav">
-    <div class="top-nav-left">
+
+c1, c2 = st.columns([1.5, 3], vertical_alignment="center")
+with c1:
+    st.markdown("""
+    <span id='nav-container'></span>
+    <div style="display: flex; align-items: center; gap: 14px; padding-left: 10px;">
         <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/West_Bengal_Joint_Entrance_Examinations_Board_Logo.svg/500px-West_Bengal_Joint_Entrance_Examinations_Board_Logo.svg.png" style="height: 32px;" />
-        <span class="top-nav-title">WBJEE Portal</span>
+        <span style="color: #0F172A; font-size: 16px; font-weight: 800; letter-spacing: 0.5px; white-space: nowrap;">WBJEE Portal</span>
     </div>
-    <div style="display: flex; gap: 32px; align-items: center;">
-        <div class="nav-item"><i class="fa-solid fa-building-columns"></i> Predictor</div>
-        <div class="nav-item"><i class="fa-solid fa-chart-line"></i> Analytics</div>
-        <div class="nav-item active"><i class="fa-solid fa-book-open"></i> Matrix</div>
-        <div class="nav-item"><i class="fa-solid fa-circle-question"></i> Guide</div>
-    </div>
-</div>
+    """, unsafe_allow_html=True)
+with c2:
+    app_mode = st.segmented_control(
+        "Nav", 
+        ["College Directory", "Rank Predictor", "Analytics", "Guide"], 
+        default="College Directory", 
+        label_visibility="collapsed"
+    )
+
+st.markdown("""
+<style>
+div[data-testid="stHorizontalBlock"]:has(#nav-container) {
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    padding: 12px 32px !important;
+    border-radius: 60px;
+    box-shadow: 0 10px 40px -10px rgba(59, 130, 246, 0.2), 0 0 20px rgba(16, 185, 129, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    position: sticky !important;
+    top: 50px !important;
+    z-index: 999999 !important;
+    margin: 0 auto 24px auto !important;
+    max-width: 1350px !important;
+}
+
+div[data-testid="stSegmentedControl"] {
+    display: flex;
+    justify-content: flex-end;
+}
+</style>
 """, unsafe_allow_html=True)
 
 # ══════════════════════════════════════════════════════════════
@@ -320,8 +347,6 @@ div[data-testid="column"]:nth-child(3) label p::before { content: "\\f19c"; font
 div[data-testid="column"]:nth-child(4) label p::before { content: "\\f5fd"; font-family: "Font Awesome 6 Free"; font-weight: 900; margin-right: 8px; color: #8B5CF6; font-size: 16px; background: #F5F3FF; padding: 6px; border-radius: 50%; }
 </style>
 """
-
-app_mode = st.segmented_control("Select App Mode", ["College Directory", "Rank Predictor"], default="College Directory", label_visibility="collapsed")
 
 if app_mode == "Rank Predictor":
     import model
@@ -362,32 +387,101 @@ if app_mode == "Rank Predictor":
                         st.warning("No colleges found for this combination or rank is too high.")
                     else:
                         st.markdown("<hr style='margin: 20px 0;'>", unsafe_allow_html=True)
-                        tab1, tab2, tab3 = st.tabs(["🟢 Safe (Confirmed)", "🟡 Match (50/50)", "🔴 Reach (Low Chance)"])
                         
-                        def display_status(df, status, color):
-                            sub_df = df[df['Status'] == status]
-                            if sub_df.empty:
-                                st.info(f"No {status} colleges in this rank bracket.")
-                            else:
-                                for _, row in sub_df.iterrows():
-                                    st.markdown(f"""
-                                    <div style="padding: 12px; border-left: 4px solid {color}; background: #F8FAFC; margin-bottom: 12px; border-radius: 4px;">
-                                        <h4 style="margin: 0; color: #1E293B;">{row['Institute']}</h4>
-                                        <p style="margin: 4px 0 0 0; color: #64748B; font-weight: 500;">{row['Program']}</p>
-                                        <div style="display: flex; gap: 16px; margin-top: 8px; font-size: 13px;">
-                                            <span style="color: #475569;"><i class="fa-solid fa-bullseye"></i> Predicted Cutoff: <b>{row['Predicted Rank']}</b></span>
-                                            <span style="color: #475569;"><i class="fa-solid fa-arrows-left-right"></i> Safe Limit: <b>{row['Safe Limit']}</b></span>
-                                            <span style="color: #475569;"><i class="fa-solid fa-arrow-up-right-dots"></i> Reach Limit: <b>{row['Reach Upper Limit']}</b></span>
-                                        </div>
-                                    </div>
-                                    """, unsafe_allow_html=True)
+                        safe_count = len(res_df[res_df['Status'] == 'Safe'])
+                        match_count = len(res_df[res_df['Status'] == 'Match'])
+                        reach_count = len(res_df[res_df['Status'] == 'Reach'])
+                        total_count = len(res_df)
                         
-                        with tab1:
-                            display_status(res_df, "Safe", "#10B981")
-                        with tab2:
-                            display_status(res_df, "Match", "#F59E0B")
-                        with tab3:
-                            display_status(res_df, "Reach", "#EF4444")
+                        m1, m2, m3, m4 = st.columns(4)
+                        m1.metric("Safe", safe_count)
+                        m2.metric("Match", match_count)
+                        m3.metric("Reach", reach_count)
+                        m4.metric("Total", total_count)
+                        
+                        with st.expander("📥 Export results"):
+                            csv_data = res_df.to_csv(index=False).encode('utf-8')
+                            st.download_button(label="Download Predictions as CSV", data=csv_data, file_name="wbjee_predictions.csv", mime="text/csv")
+                        
+                        st.markdown("<hr style='margin: 10px 0 20px 0;'>", unsafe_allow_html=True)
+                        
+                        f1, f2 = st.columns(2)
+                        search_branch = f1.text_input("Filter by branch", placeholder="e.g. CSE, Mechanical, Data Science, AI")
+                        search_inst = f2.text_input("Filter by institute", placeholder="e.g. Jadavpur, Kalyani, Heritage")
+                        
+                        # Apply local filters
+                        display_df = res_df.copy()
+                        if search_branch:
+                            display_df = display_df[display_df['Program'].str.contains(search_branch, case=False, na=False)]
+                        if search_inst:
+                            display_df = display_df[display_df['Institute'].str.contains(search_inst, case=False, na=False)]
+                        
+                        # Apply Categories
+                        display_df['Cat_ID'] = display_df['Institute'].apply(lambda x: get_institute_category(x)[0])
+                        display_df['Cat_Name'] = display_df['Institute'].apply(lambda x: get_institute_category(x)[1])
+                        
+                        # Filter out Pharmacy (Cat_ID = 7)
+                        display_df = display_df[display_df['Cat_ID'] != 7]
+                        
+                        def display_category_expanders(sub_df):
+                            cats = sorted(sub_df['Cat_ID'].unique())
+                            for cat in cats:
+                                cat_df = sub_df[sub_df['Cat_ID'] == cat]
+                                cat_name = cat_df['Cat_Name'].iloc[0]
+                                
+                                def render_insts(df_subset):
+                                    insts = sorted(df_subset['Institute'].unique(), key=institute_sort_key)
+                                    for inst in insts:
+                                        inst_df = df_subset[df_subset['Institute'] == inst]
+                                        with st.expander(f"{inst} ({len(inst_df)} branches)"):
+                                            st.markdown(f"**{inst}**")
+                                            show_df = inst_df[['Program', 'R1', 'R2', 'R3']].copy()
+                                            st.dataframe(show_df, use_container_width=True, hide_index=True)
+                                            
+                                if cat == 5: # Private College
+                                    top_pvt_keywords = ["HERITAGE", "TECHNO MAIN", "CALCUTTA INSTITUTE OF ENGINEERING", "HALDIA", "ST. THOMAS", "NSHM", "NETAJI SUBHAS"]
+                                    
+                                    def is_top(name):
+                                        return any(kw in name.upper() for kw in top_pvt_keywords)
+                                        
+                                    is_top_mask = cat_df['Institute'].apply(is_top)
+                                    top_df = cat_df[is_top_mask]
+                                    other_df = cat_df[~is_top_mask]
+                                    
+                                    if not top_df.empty:
+                                        st.markdown(f"<h4 style='color: #64748B; margin-top: 15px;'>🏢 Top Private Colleges ({top_df['Institute'].nunique()} options)</h4>", unsafe_allow_html=True)
+                                        render_insts(top_df)
+                                        
+                                    if not other_df.empty:
+                                        st.markdown("<br>", unsafe_allow_html=True)
+                                        with st.expander(f"Explore More Private Colleges ({other_df['Institute'].nunique()} options)"):
+                                            render_insts(other_df)
+                                else:
+                                    st.markdown(f"<h4 style='color: #64748B; margin-top: 15px;'>{cat_name} ({cat_df['Institute'].nunique()} options)</h4>", unsafe_allow_html=True)
+                                    render_insts(cat_df)
+                        
+                        # Safe
+                        safe_df = display_df[display_df['Status'] == 'Safe']
+                        if not safe_df.empty:
+                            st.markdown(f"<h3 style='color:#10B981; margin-top:30px; margin-bottom: 5px;'><i class='fa-solid fa-circle'></i> SAFE ({len(safe_df)} options)</h3>", unsafe_allow_html=True)
+                            display_category_expanders(safe_df)
+                            
+                        # Match
+                        match_df = display_df[display_df['Status'] == 'Match']
+                        if not match_df.empty:
+                            st.markdown(f"<h3 style='color:#F59E0B; margin-top:30px; margin-bottom: 5px;'><i class='fa-solid fa-circle'></i> MATCH ({len(match_df)} options)</h3>", unsafe_allow_html=True)
+                            display_category_expanders(match_df)
+                            
+                        # Reach
+                        reach_df = display_df[display_df['Status'] == 'Reach']
+                        if not reach_df.empty:
+                            st.markdown(f"<h3 style='color:#EF4444; margin-top:30px; margin-bottom: 5px;'><i class='fa-solid fa-circle'></i> REACH ({len(reach_df)} options)</h3>", unsafe_allow_html=True)
+                            display_category_expanders(reach_df)
+    st.stop()
+
+elif app_mode == "Analytics" or app_mode == "Guide":
+    st.markdown("<br><br><br><br>", unsafe_allow_html=True)
+    st.info(f"The **{app_mode}** module is currently under construction. Check back soon!")
     st.stop()
 
 # ══════════════════════════════════════════════════════════════

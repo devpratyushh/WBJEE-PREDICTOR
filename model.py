@@ -52,7 +52,7 @@ def load_and_train_predictor():
     for name, group in grouped:
         institute, program, quota, category, seat_type = name
         
-        # Get Final Round ranks per year
+        # Get Final Round ranks per year (for classification and sorting)
         idx_final = group.groupby('Year')['Round Num'].idxmax()
         final_ranks = group.loc[idx_final].set_index('Year')['Closing Rank Num'].sort_index()
         
@@ -86,29 +86,46 @@ def load_and_train_predictor():
             else:
                 pred_r1_trend = np.median(y_r1)
                 
-            # Calculate historical ratio (Final / Round 1)
             ratios = final_ranks / r1_ranks
             median_ratio = ratios.median()
             
-            # If ratio is invalid or weird, fallback
             if pd.isna(median_ratio) or median_ratio < 1.0:
                 median_ratio = 1.0
                 
             ratio_based_pred = pred_r1_trend * median_ratio
-            
-            # Blend the two signals (50/50)
             final_pred_rank = (pred_final_trend + ratio_based_pred) / 2.0
         else:
-            # Fallback to pure Year-Trend if Round 1 data is patchy
             final_pred_rank = pred_final_trend
             
-        # Prevent negative ranks
         final_pred_rank = max(1, final_pred_rank)
             
         # 3. Confidence Intervals (MAD)
         median_rank = np.median(y_final)
         mad = np.median(np.abs(y_final - median_rank))
         mad = max(mad, 100) # Minimum buffer of 100 ranks
+        
+        # 4. Compute display strings for R1, R2, R3
+        r_displays = {1: "-", 2: "-", 3: "-"}
+        for r_num in [1, 2, 3]:
+            r_df_cur = group[group['Round Num'] == r_num]
+            if not r_df_cur.empty:
+                r_ranks_cur = r_df_cur.set_index('Year')['Closing Rank Num'].sort_index()
+                years = r_ranks_cur.index.values
+                y_hist = r_ranks_cur.values
+                
+                if len(y_hist) >= 3:
+                    mdl = SVR(kernel='rbf', C=1000, gamma=0.1, epsilon=10)
+                    X = (years - 2020).reshape(-1, 1)
+                    mdl.fit(X, y_hist)
+                    pred_r = int(max(1, mdl.predict([[target_year - 2020]])[0]))
+                else:
+                    pred_r = int(max(1, np.median(y_hist)))
+                    
+                hist_parts = []
+                for y, v in zip(years[::-1], y_hist[::-1]): 
+                    hist_parts.append(f"'{str(y)[-2:]}: {int(v):,}")
+                hist_str = ", ".join(hist_parts)
+                r_displays[r_num] = f"{pred_r:,} ({hist_str})"
         
         results.append({
             'Institute': institute,
@@ -119,7 +136,10 @@ def load_and_train_predictor():
             'Predicted Rank': int(final_pred_rank),
             'Safe Limit': int(max(1, final_pred_rank - mad)),
             'Match Upper Limit': int(final_pred_rank + mad),
-            'Reach Upper Limit': int(final_pred_rank + (1.5 * mad))
+            'Reach Upper Limit': int(final_pred_rank + (1.5 * mad)),
+            'R1': r_displays[1],
+            'R2': r_displays[2],
+            'R3': r_displays[3]
         })
         
     return pd.DataFrame(results)
