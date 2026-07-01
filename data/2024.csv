@@ -61,7 +61,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 60,Round 1,"Ramkrishna Mahato Government Engineering College, Purulia",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open,2557,8542
 61,Round 1,"Ramkrishna Mahato Government Engineering College, Purulia",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open (PwD),79177,104464
 62,Round 1,"Bankura Unnayani Institute of Engineering, Bankura",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,425072,1265893
-63,Round 1,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,10364,91921
 64,Round 1,"Guru Nanak Institute of Technology, Panihati, Sodepur",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,10985,108385
 65,Round 1,"Hooghly Engineering & Technology College, Hooghly",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,86023,386721
 66,Round 1,"Jis College of Engineering, Kalyani, Nadia",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,236348,563985
@@ -96,7 +95,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 95,Round 1,"Govt. College of Engg. & Textile Technology, Berhampore",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,14969,21413
 96,Round 1,"Asansol Engineering College, Asansol, Burdwan",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,207564,576066
 97,Round 1,"Dr. B. C. Roy Engineering College, Durgapur",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,178822,1046084
-98,Round 1,"Future Institute of Engineering & Management, Sonarpur",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,709247,709247
 99,Round 1,"Kalyani Goverment Engineering College, Kalyani, Nadia",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,3949,4110
 100,Round 1,"Kalyani Goverment Engineering College, Kalyani, Nadia",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,4277,5263
 101,Round 1,"Ramkrishna Mahato Government Engineering College, Purulia",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,23117,25849
@@ -112,7 +110,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 111,Round 1,"UNIVERSITY OF KALYANI, KALYANI",Electronics & Communication Engineering (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,3393,3393
 112,Round 1,"Cooch Behar Government Engineering College, Cooch Behar",Electronics & Communication Engineering (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,6954,8716
 113,Round 1,"Budge Budge Institute of Technology, Budge-Budge",Electronics & Communication Engineering (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,32751,34615
-114,Round 1,"Future Institute of Engineering & Management, Sonarpur",Electronics & Communication Engineering (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,24700,28309
 115,Round 1,Jadavpur University,Metallurgical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,5555,5831
 116,Round 1,"Guru Nanak Institute of Technology, Panihati, Sodepur",Electronics & Communication Engineering (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,18552,24559
 117,Round 1,"Jis College of Engineering, Kalyani, Nadia",Electronics & Communication Engineering (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,22917,27792
@@ -133,7 +130,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 132,Round 1,"Pailan College of Management & Technology, Pailan Park",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,336833,336833
 133,Round 1,"Cooch Behar Government Engineering College, Cooch Behar",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,9578,9962
 134,Round 1,"Kalyani Goverment Engineering College, Kalyani, Nadia",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,2238,3477
-135,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,14859,106001
 136,Round 1,"B.P. Poddar Institute of Management & Technology, Kolkata",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,188767,331956
 137,Round 1,"Bengal College of Engineering & Technology, Durgapur",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,16909,105340
 138,Round 1,"Budge Budge Institute of Technology, Budge-Budge",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,30162,102034
@@ -151,20 +147,17 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 150,Round 1,"Netaji Subhas Engineering College, Garia, Kolkata",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,14475,20707
 151,Round 1,"Siliguri Institute of Technology, Siliguri",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,436100,624723
 152,Round 1,"Govt. College of Engineering & Ceramic Technology, Kolkata",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open,3154,4477
-153,Round 1,"Future Institute of Engineering & Management, Sonarpur",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,33558,71039
 154,Round 1,"Seacom Engineering College, Sankrail, Howrah",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,48994,48994
 155,Round 1,"Techno International New Town, Rajarhat, New Town",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,24901,83431
 156,Round 1,"Swami Vivekananda Institute of Science & Technology, Sonarpur",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,1159058,1159058
 157,Round 1,Jadavpur University,Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,1492,2420
 158,Round 1,Jadavpur University,Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,1971,2049
-159,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,76113,77808
 160,Round 1,"Asansol Engineering College, Asansol, Burdwan",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,23801,89280
 161,Round 1,"Techno Main Salt Lake, Sector-V, Salt Lake",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,185362,303227
 162,Round 1,Jadavpur University,Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A (PwD),71563,71563
 163,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,21819,32622
 164,Round 1,"Cooch Behar Government Engineering College, Cooch Behar",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open (PwD),89703,89703
 165,Round 1,"Cooch Behar Government Engineering College, Cooch Behar",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,49292,61858
-166,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,224075,280206
 167,Round 1,"Asansol Engineering College, Asansol, Burdwan",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,110311,196786
 168,Round 1,"Bengal College of Engineering & Technology, Durgapur",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,20033,110373
 169,Round 1,"Dr. B. C. Roy Engineering College, Durgapur",Computer Science And Design - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,19821,27811
@@ -227,7 +220,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 226,Round 1,"Siliguri Institute of Technology, Siliguri",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,32283,97101
 227,Round 1,"Cooch Behar Government Engineering College, Cooch Behar",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,14145,18688
 228,Round 1,"B.P. Poddar Institute of Management & Technology, Kolkata",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,73823,73823
-229,Round 1,"Future Institute of Engineering & Management, Sonarpur",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,22680,110572
 230,Round 1,"Netaji Subhas Engineering College, Garia, Kolkata",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,6838,34808
 231,Round 1,"Nshm Knowledge Campus, Durgapur Group of Institutions",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,100157,100157
 232,Round 1,"Bidhan Chandra Krishi Viswa Vidyalaya, Mohanpur, Nadia",Agricultural Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,6092,7019
@@ -247,13 +239,11 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 246,Round 1,"Durgapur Institute of Advanced Technology & Management, Durgapur",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,40431,75939
 247,Round 1,"Cooch Behar Government Engineering College, Cooch Behar",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,16008,17690
 248,Round 1,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,18248,27624
-249,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,24970,110772
 250,Round 1,"Heritage Institute of Technology, Kolkata",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,35842,64646
 251,Round 1,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open,2856,4455
 252,Round 1,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,10606,12947
 253,Round 1,"Asansol Engineering College, Asansol, Burdwan",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,75839,75839
 254,Round 1,"Dream Institute of Technology, Bishnupur, 24-Parganas-South",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,1324339,1324339
-255,Round 1,"Future Institute of Engineering & Management, Sonarpur",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,34370,57463
 256,Round 1,"Kalyani Goverment Engineering College, Kalyani, Nadia",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,33220,41864
 257,Round 1,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,24045,26113
 258,Round 1,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Electronics & Communication Engineering (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,849,2449
@@ -360,7 +350,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 359,Round 1,"College of Engineering and Management, Kolaghat",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,302995,1369171
 360,Round 1,"Dr. B. C. Roy Engineering College, Durgapur",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,32215,108250
 361,Round 1,"Dream Institute of Technology, Bishnupur, 24-Parganas-South",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,45023,45023
-362,Round 1,"Future Institute of Engineering & Management, Sonarpur",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,22888,107445
 363,Round 1,"Gargi Memorial Institute of Technology, Baruipur, Kolkata",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,17420,110148
 364,Round 1,"Haldia Institute of Technology, Haldia, Purba Medinipur",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,53194,53194
 365,Round 1,"Heritage Institute of Technology, Kolkata",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,51552,51552
@@ -453,7 +442,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 452,Round 1,"Regent Education and Research Foundation, Barasat, Kolkata",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,98873,98873
 453,Round 1,"Cooch Behar Government Engineering College, Cooch Behar",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,14387,21275
 454,Round 1,"B.P. Poddar Institute of Management & Technology, Kolkata",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,21308,64619
-455,Round 1,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,101291,247614
 456,Round 1,"Dr.Sudhir Chandra Sur Institute of Technology and Sports Complex, Dum Dum",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,68618,82471
 457,Round 1,"Global Institute of Management and Technology, Krishnanagar, Nadia",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,42625,100180
 458,Round 1,"Guru Nanak Institute of Technology, Panihati, Sodepur",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,427707,1067532
@@ -522,9 +510,7 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 521,Round 1,University Of Calcutta,Optics & Optoelectronics,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,4511,4511
 522,Round 1,University Of Calcutta,Optics & Optoelectronics,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open,1547,2363
 523,Round 1,University Of Calcutta,Polymer Science & Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,12791,15640
-524,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,60559,60559
 525,Round 1,"B.P. Poddar Institute of Management & Technology, Kolkata",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,240707,281849
-526,Round 1,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,12068,97333
 527,Round 1,"Camellia Institute of Technology, Badu Road, Madhyamgram",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,94583,94583
 528,Round 1,"Dr.Sudhir Chandra Sur Institute of Technology and Sports Complex, Dum Dum",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,584196,584196
 529,Round 1,"Narula Institute of Technology, Agarpara, Kolkata",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,299885,612055
@@ -622,7 +608,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 621,Round 1,"Kalyani Goverment Engineering College, Kalyani, Nadia",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,7311,8577
 622,Round 1,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,6388,10378
 623,Round 1,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,12017,13015
-624,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,107549,107549
 625,Round 1,"Mckv Institute of Engineering, Liluah, Howrah",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,21297,109989
 626,Round 1,"Meghnad Saha Institute of Technology, Kolkata",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,14421,104040
 627,Round 1,"Netaji Subhas Engineering College, Garia, Kolkata",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,235593,365405
@@ -699,7 +684,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 698,Round 1,"Meghnad Saha Institute of Technology, Kolkata",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,438541,1079647
 699,Round 1,"Ramkrishna Mahato Government Engineering College, Purulia",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,40600,60469
 700,Round 1,"Bankura Unnayani Institute of Engineering, Bankura",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,41256,109385
-701,Round 1,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,274548,575045
 702,Round 1,"Dumkal Institute of Engineering & Technology, Dumkal, Murshidabad",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,63247,70817
 703,Round 1,"Narula Institute of Technology, Agarpara, Kolkata",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,36146,97487
 704,Round 1,"Sanaka Education Trusts Group of Institutions, Durgapur, Burdwan",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,46976,87425
@@ -715,7 +699,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 714,Round 1,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,20846,45232
 715,Round 1,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,26395,27316
 716,Round 1,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,79744,82667
-717,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,115942,336796
 718,Round 1,"Haldia Institute of Technology, Haldia, Purba Medinipur",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,33634,77782
 719,Round 1,"Techno Main Salt Lake, Sector-V, Salt Lake",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,45991,98071
 720,Round 1,Jadavpur University,Production Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,3366,4362
@@ -728,7 +711,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 727,Round 1,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open (PwD),109340,109340
 728,Round 1,"Ramkrishna Mahato Government Engineering College, Purulia",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,22565,27925
 729,Round 1,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,68188,69888
-730,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,245370,672985
 731,Round 1,"Academy of Technology, Adisaptagram, Hooghly",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,19061,110759
 732,Round 1,"Cooch Behar Government Engineering College, Cooch Behar",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,17462,23931
 733,Round 1,"Cooch Behar Government Engineering College, Cooch Behar",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,75737,97993
@@ -747,7 +729,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 746,Round 1,"Meghnad Saha Institute of Technology, Kolkata",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,89856,258780
 747,Round 1,"Rcc Institute of Information Technology, Kolkata",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,36155,59003
 748,Round 1,"Dr. B. C. Roy Engineering College, Durgapur",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,9953,16059
-749,Round 1,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,12348,19575
 750,Round 1,"Pailan College of Management & Technology, Pailan Park",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,23768,38142
 751,Round 1,"Sister Nivedita University, New Town",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,10999,17663
 752,Round 1,"Netaji Subhas Engineering College, Garia, Kolkata",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,4399,6894
@@ -757,7 +738,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 756,Round 1,"UNIVERSITY OF KALYANI, KALYANI",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,2185,2185
 757,Round 1,"Academy of Technology, Adisaptagram, Hooghly",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,2670,7411
 758,Round 1,"Dream Institute of Technology, Bishnupur, 24-Parganas-South",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,28031,36669
-759,Round 1,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,7379,11456
 760,Round 1,"Techno India University, Salt Lake",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,73227,105967
 761,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,52652,68840
 762,Round 1,"Bankura Unnayani Institute of Engineering, Bankura",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,13769,105786
@@ -769,13 +749,9 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 768,Round 1,University Of Calcutta,Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,1407,2142
 769,Round 1,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,17615,21793
 770,Round 1,"Cooch Behar Government Engineering College, Cooch Behar",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,54252,70638
-771,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,233367,505316
 772,Round 1,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open,2337,5839
 773,Round 1,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,43728,52716
 774,Round 1,"Ramkrishna Mahato Government Engineering College, Purulia",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,20383,27151
-775,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,13422,75537
-776,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,82583,82583
-777,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,85898,85898
 778,Round 1,"Hemnalini Memorial College of Engineering, Haringhata",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,55293,55293
 779,Round 1,"Heritage Institute of Technology, Kolkata",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,62151,84441
 780,Round 1,"Jis College of Engineering, Kalyani, Nadia",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,275101,450493
@@ -864,7 +840,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 863,Round 1,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open (PwD),51496,51496
 864,Round 1,"Ramkrishna Mahato Government Engineering College, Purulia",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,21799,29074
 865,Round 1,"Bankura Unnayani Institute of Engineering, Bankura",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,321657,675092
-866,Round 1,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,15459,110942
 867,Round 1,"Future Institute of Technology, Boral, Garia",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,1142441,1142441
 868,Round 1,Jadavpur University,Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open (PwD),25569,49894
 869,Round 1,"Global Institute of Management and Technology, Krishnanagar, Nadia",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,33610,70956
@@ -897,7 +872,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 896,Round 1,Jadavpur University,Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,605,927
 897,Round 1,Jadavpur University,Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B (PwD),18599,18599
 898,Round 1,"Rcc Institute of Information Technology, Kolkata",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,7644,12318
-899,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,14060,21059
 900,Round 1,"Techno Engineering Collge Banipur, 24 Parganas-North",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,26214,35756
 901,Round 1,"Maulana Abul Kalam Azad University of Technology, West Bengal",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,2604,2967
 902,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,3502,6214
@@ -986,7 +960,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 985,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,10228,11966
 986,Round 1,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open (PwD),70448,70448
 987,Round 1,"Ramkrishna Mahato Government Engineering College, Purulia",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,55606,62367
-988,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,75814,75814
 989,Round 1,"Bengal College of Engineering & Technology, Durgapur",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,102903,862444
 990,Round 1,"Bengal Institute of Technology, Dhapa, Kolkata",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,16655,74437
 991,Round 1,"Future Institute of Technology, Boral, Garia",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,52666,110270
@@ -1016,14 +989,11 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 1015,Round 1,"Meghnad Saha Institute of Technology, Kolkata",Computer Science & Engineering (IOT) - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,15960,17177
 1016,Round 1,"Techno Main Salt Lake, Sector-V, Salt Lake",Computer Science & Engineering (IOT) - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,6847,7224
 1017,Round 1,"Bengal Institute of Technology, Dhapa, Kolkata",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,358184,710770
-1018,Round 1,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,79112,79112
 1019,Round 1,"Dr. B. C. Roy Engineering College, Durgapur",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,219153,326645
-1020,Round 1,"Future Institute of Engineering & Management, Sonarpur",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,242173,546499
 1021,Round 1,Jadavpur University,Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC (PwD),24794,24794
 1022,Round 1,University Of Calcutta,Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,20609,23170
 1023,Round 1,"UNIVERSITY OF KALYANI, KALYANI",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,7830,10122
 1024,Round 1,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,23235,36067
-1025,Round 1,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,130305,195970
 1026,Round 1,"Jis College of Engineering, Kalyani, Nadia",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,6194,522569
 1027,Round 1,"Meghnad Saha Institute of Technology, Kolkata",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,25247,41488
 1028,Round 1,"Techno International New Town, Rajarhat, New Town",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,131977,432598
@@ -1043,7 +1013,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 1042,Round 1,"Asansol Engineering College, Asansol, Burdwan",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,193523,411235
 1043,Round 1,"Bengal Institute of Technology, Dhapa, Kolkata",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,996411,1043341
 1044,Round 1,"Dr. B. C. Roy Engineering College, Durgapur",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,94975,517982
-1045,Round 1,"Future Institute of Engineering & Management, Sonarpur",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,315285,1130926
 1046,Round 1,"Haldia Institute of Technology, Haldia, Purba Medinipur",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,27523,110423
 1047,Round 1,University Of Calcutta,Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,21895,26475
 1048,Round 1,"UNIVERSITY OF KALYANI, KALYANI",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,3642,3877
@@ -1072,7 +1041,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 1071,Round 1,University Of Calcutta,Instrumentation Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,2250,3083
 1072,Round 1,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,35240,39164
 1073,Round 1,"Kalyani Goverment Engineering College, Kalyani, Nadia",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC (PwD),54693,54693
-1074,Round 1,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,137095,311218
 1075,Round 1,"Calcutta Institute of Technology, Uluberia, Howrah",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,6514,102173
 1076,Round 1,"Dream Institute of Technology, Bishnupur, 24-Parganas-South",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,54242,83849
 1077,Round 1,"Greater Kolkata College of Engineering & Management, Baruipur",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,89405,89405
@@ -1218,7 +1186,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 1217,Round 1,UNIVERSITY OF ENGINEERING AND MANAGEMENT KOLKATA,Computer Science & Engineering (Data Science) (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,6026,6884
 1218,Round 1,"Nshm Knowledge Campus, Durgapur Group of Institutions",Computer Science & Engineering (Data Science) (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,38023,40256
 1219,Round 1,"Techno International New Town, Rajarhat, New Town",Computer Science & Engineering (Data Science) (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,19738,21069
-1220,Round 1,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering (Data Science) (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,23889,24702
 1221,Round 1,"Goverment College of Engineering and Leather Technology, Kolkata",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open (PwD),72945,72945
 1222,Round 1,"Kalyani Goverment Engineering College, Kalyani, Nadia",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,1979,2415
 1223,Round 1,"College of Engineering and Management, Kolaghat",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,17379,110621
@@ -1261,7 +1228,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 1260,Round 1,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A (PwD),68939,68939
 1261,Round 1,"Kalyani Goverment Engineering College, Kalyani, Nadia",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open,1470,1901
 1262,Round 1,"Bengal College of Engineering & Technology, Durgapur",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,472448,780298
-1263,Round 1,"Future Institute of Engineering & Management, Sonarpur",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,75875,82654
 1264,Round 1,"Heritage Institute of Technology, Kolkata",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,8634,8634
 1265,Round 1,Techno International Batanagar,Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,182881,182881
 1266,Round 1,"Adamas University, Barasat",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,16428,109663
@@ -1295,7 +1261,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 1294,Round 1,Jadavpur University,Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open (PwD),2613,5581
 1295,Round 1,"Ramkrishna Mahato Government Engineering College, Purulia",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,16285,21777
 1296,Round 1,"Budge Budge Institute of Technology, Budge-Budge",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,55429,104443
-1297,Round 1,"Future Institute of Engineering & Management, Sonarpur",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,572952,900538
 1298,Round 1,"Murshidabad College of Engineering & Technology, Murshidabad",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,27715,100636
 1299,Round 1,"Seacom Engineering College, Sankrail, Howrah",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,54898,54898
 1300,Round 1,Jadavpur University,Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,609,777
@@ -1325,7 +1290,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 1324,Round 1,"Kalyani Goverment Engineering College, Kalyani, Nadia",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open (PwD),44289,44669
 1325,Round 1,"Bankura Unnayani Institute of Engineering, Bankura",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,331835,491103
 1326,Round 1,"Budge Budge Institute of Technology, Budge-Budge",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,29479,89629
-1327,Round 1,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,6773,60285
 1328,Round 1,"Guru Nanak Institute of Technology, Panihati, Sodepur",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,35525,52989
 1329,Round 1,"Narula Institute of Technology, Agarpara, Kolkata",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,1494,33380
 1330,Round 1,"St. Thomas College of Engineering & Technology, Khidirpur, Kolkata",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,224321,274727
@@ -1346,7 +1310,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 1345,Round 1,"Heritage Institute of Technology, Kolkata",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,7328,12081
 1346,Round 1,"Mckv Institute of Engineering, Liluah, Howrah",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,73750,92979
 1347,Round 1,"Kaji Nazrul University, Asansol",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,5016,7948
-1348,Round 1,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,90115,105726
 1349,Round 1,"Kaji Nazrul University, Asansol",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,65491,69944
 1350,Round 1,UNIVERSITY OF ENGINEERING AND MANAGEMENT KOLKATA,Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,7029,11393
 1351,Round 1,"Bengal College of Engineering & Technology, Durgapur",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,97200,165374
@@ -1358,7 +1321,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 1357,Round 1,"Narula Institute of Technology, Agarpara, Kolkata",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,2870,235222
 1358,Round 1,"Sanaka Education Trusts Group of Institutions, Durgapur, Burdwan",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,325845,325845
 1359,Round 1,"Kaji Nazrul University, Asansol",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open (PwD),100729,100729
-1360,Round 1,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,24077,88484
 1361,Round 1,"Heritage Institute of Technology, Kolkata",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,2753,5361
 1362,Round 1,"Narula Institute of Technology, Agarpara, Kolkata",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,953,34582
 1363,Round 1,"Netaji Subhas Engineering College, Garia, Kolkata",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,12676,24983
@@ -1374,7 +1336,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 1373,Round 1,University Of Calcutta,Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,26744,26744
 1374,Round 1,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,7745,9804
 1375,Round 1,"Kalyani Goverment Engineering College, Kalyani, Nadia",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,3144,3493
-1376,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,22381,106399
 1377,Round 1,"Bankura Unnayani Institute of Engineering, Bankura",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,126459,793433
 1378,Round 1,"Haldia Institute of Technology, Haldia, Purba Medinipur",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,33620,94072
 1379,Round 1,"Hooghly Engineering & Technology College, Hooghly",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,563904,1085806
@@ -1454,7 +1415,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 1453,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,11512,16142
 1454,Round 1,"Techno Main Salt Lake, Sector-V, Salt Lake",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,20723,31669
 1455,Round 1,Techno International Batanagar,Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,43296,103792
-1456,Round 1,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,243628,459151
 1457,Round 1,"Sister Nivedita University, New Town",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,290186,769257
 1458,Round 1,Techno International Batanagar,Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,518185,1208930
 1459,Round 1,University Of Calcutta,"CHEMICAL TECHNOLOGY (Ceramic Engineering, Oil Technology, Petrochem & petro refinery Engg, Pharmaceutical & Fine Chemical Technology)",B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,11680,13711
@@ -1610,7 +1570,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 1609,Round 1,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open (PwD),36677,36677
 1610,Round 1,"Maulana Abul Kalam Azad University of Technology, West Bengal",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,3233,11302
 1611,Round 1,Swami Vivekananda University,Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,8115,55654
-1612,Round 1,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,9080,46597
 1613,Round 1,"Guru Nanak Institute of Technology, Panihati, Sodepur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,746,35211
 1614,Round 1,"St. Thomas College of Engineering & Technology, Khidirpur, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,28071,105732
 1615,Round 1,"Rcc Institute of Information Technology, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,23005,103687
@@ -1636,7 +1595,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 1635,Round 1,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Electrical Engineering (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,2708,3028
 1636,Round 1,"Techno India University, Salt Lake",Electrical Engineering (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,8700,8700
 1637,Round 1,"Narula Institute of Technology, Agarpara, Kolkata",Electrical Engineering (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,17500,19036
-1638,Round 1,"Future Institute of Engineering & Management, Sonarpur",Information Technology (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,22067,23189
 1639,Round 1,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,11973,16196
 1640,Round 1,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,1610,6110
 1641,Round 1,University Of Calcutta,Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,870,1337
@@ -1669,7 +1627,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 1668,Round 1,"Meghnad Saha Institute of Technology, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,57297,210524
 1669,Round 1,"Murshidabad College of Engineering & Technology, Murshidabad",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,234938,445794
 1670,Round 1,"Techno International New Town, Rajarhat, New Town",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,43964,99911
-1671,Round 1,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,68294,75557
 1672,Round 1,"Gargi Memorial Institute of Technology, Baruipur, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,309593,1285644
 1673,Round 1,"Govt. College of Engineering & Textile Technology, Serampore",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open,2211,5165
 1674,Round 1,"Camellia Institute of Technology & Management, Bainchi, Hooghly",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,48177,48177
@@ -1719,11 +1676,8 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 1718,Round 1,"Elitte College of Engineering,Mahispota, Sodepur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,16504,109531
 1719,Round 1,"Camellia Institute of Technology & Management, Bainchi, Hooghly",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,21184,110826
 1720,Round 1,"Bankura Unnayani Institute of Engineering, Bankura",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,170026,286437
-1721,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,55179,55179
 1722,Round 1,"Techno Engineering Collge Banipur, 24 Parganas-North",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,152402,713197
 1723,Round 1,"Institute of Science and Technology, Paschim Medinipur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,78577,94498
-1724,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,25984,149276
-1725,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,10203,44621
 1726,Round 1,"Bankura Unnayani Institute of Engineering, Bankura",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,20019,62758
 1727,Round 1,"Camellia Institute of Technology & Management, Bainchi, Hooghly",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,510995,774888
 1728,Round 1,"Durgapur Institute of Advanced Technology & Management, Durgapur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,55003,107833
@@ -1737,7 +1691,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 1736,Round 1,"Narula Institute of Technology, Agarpara, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,21779,21918
 1737,Round 1,"Sanaka Education Trusts Group of Institutions, Durgapur, Burdwan",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,97977,109595
 1738,Round 1,"Haldia Institute of Technology, Haldia, Purba Medinipur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,6984,31374
-1739,Round 1,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,82879,207926
 1740,Round 1,"Global Institute of Management and Technology, Krishnanagar, Nadia",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,436745,819026
 1741,Round 1,"Guru Nanak Institute of Technology, Panihati, Sodepur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,1166,316744
 1742,Round 1,"Guru Nanak Institute of Technology, Panihati, Sodepur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,37334,39617
@@ -1754,7 +1707,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 1753,Round 1,"Govt. College of Engineering & Textile Technology, Serampore",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,9214,13003
 1754,Round 1,"Govt. College of Engineering & Textile Technology, Serampore",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,45098,53794
 1755,Round 1,"Ramkrishna Mahato Government Engineering College, Purulia",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,7547,10911
-1756,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,46056,53575
 1757,Round 1,"Asansol Engineering College, Asansol, Burdwan",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,918,42960
 1758,Round 1,"Govt. College of Engg. & Textile Technology, Berhampore",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open,3969,6649
 1759,Round 1,"Techno India University, Salt Lake",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,21391,64035
@@ -1765,7 +1717,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 1764,Round 1,Swami Vivekananda University,Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,74757,109764
 1765,Round 1,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,10094,10830
 1766,Round 1,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,32070,45861
-1767,Round 1,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,2603,20397
 1768,Round 1,"Durgapur Institute of Advanced Technology & Management, Durgapur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,86884,96288
 1769,Round 1,"Dream Institute of Technology, Bishnupur, 24-Parganas-South",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,295652,1190918
 1770,Round 1,"Ramkrishna Mahato Government Engineering College, Purulia",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,9383,15800
@@ -1818,10 +1769,8 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 1817,Round 1,"Budge Budge Institute of Technology, Budge-Budge",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,235086,605951
 1818,Round 1,"Calcutta Institute of Technology, Uluberia, Howrah",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,90452,163576
 1819,Round 1,"Dream Institute of Technology, Bishnupur, 24-Parganas-South",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,48221,103052
-1820,Round 1,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,47038,59100
 1821,Round 1,"Future Institute of Technology, Boral, Garia",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,84953,370876
 1822,Round 1,"Future Institute of Technology, Boral, Garia",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,82329,102990
-1823,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,46582,46582
 1824,Round 1,"Academy of Technology, Adisaptagram, Hooghly",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,3038,16414
 1825,Round 1,"Greater Kolkata College of Engineering & Management, Baruipur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,381731,941199
 1826,Round 1,"Hemnalini Memorial College of Engineering, Haringhata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,15586,105810
@@ -1832,14 +1781,12 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 1831,Round 1,"Govt. College of Engineering & Ceramic Technology, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open,786,3011
 1832,Round 1,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,7504,20952
 1833,Round 1,"Ramkrishna Mahato Government Engineering College, Purulia",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,42129,46882
-1834,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,44657,44657
 1835,Round 1,"Cooch Behar Government Engineering College, Cooch Behar",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open,2268,6398
 1836,Round 1,"Durgapur Institute of Advanced Technology & Management, Durgapur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,107301,435738
 1837,Round 1,"Ideal Institute of Engineering, Kalyani",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,7935,106180
 1838,Round 1,"Bankura Unnayani Institute of Engineering, Bankura",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,71837,110152
 1839,Round 1,"Goverment College of Engineering and Leather Technology, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A (PwD),76047,76047
 1840,Round 1,"Kalyani Goverment Engineering College, Kalyani, Nadia",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,17368,20287
-1841,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,51781,92468
 1842,Round 1,"Asansol Engineering College, Asansol, Burdwan",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,2874,219529
 1843,Round 1,"Ramkrishna Mahato Government Engineering College, Purulia",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,7002,12105
 1844,Round 1,"Kalyani Goverment Engineering College, Kalyani, Nadia",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC (PwD),40540,40540
@@ -1852,8 +1799,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 1851,Round 1,"Cooch Behar Government Engineering College, Cooch Behar",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,6550,7496
 1852,Round 1,"Goverment College of Engineering and Leather Technology, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,26508,36771
 1853,Round 1,"B.P. Poddar Institute of Management & Technology, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,7074,25086
-1854,Round 1,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,25251,96761
-1855,Round 1,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,25935,110543
 1856,Round 1,"Cooch Behar Government Engineering College, Cooch Behar",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,7556,13593
 1857,Round 1,"Goverment College of Engineering and Leather Technology, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open,1251,3976
 1858,Round 1,"Goverment College of Engineering and Leather Technology, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open (PwD),31408,41408
@@ -1946,7 +1891,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 1945,Round 1,"Govt. College of Engineering & Ceramic Technology, Kolkata",Information Technology (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,4276,4349
 1946,Round 1,"Bengal College of Engineering & Technology, Durgapur",Information Technology (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,15837,28097
 1947,Round 1,"Techno International New Town, Rajarhat, New Town",Information Technology (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,13997,17427
-1948,Round 1,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Information Technology (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,17320,20325
 1949,Round 1,"Haldia Institute of Technology, Haldia, Purba Medinipur",Information Technology (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,6383,7937
 1950,Round 1,"Heritage Institute of Technology, Kolkata",Information Technology (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,2589,3437
 1951,Round 1,"Kaji Nazrul University, Asansol",Mining Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,27699,34951
@@ -3057,15 +3001,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 3056,Round 2,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,19831,23241
 3057,Round 2,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,19949,20957
 3058,Round 2,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Computer Science & Engineering (Artificial Intelligence And Machine Learning) (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,9149,9149
-3059,Round 2,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,282971,928939
-3060,Round 2,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,98643,107549
-3061,Round 2,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,479885,479885
-3062,Round 2,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,883721,883721
-3063,Round 2,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,219187,740352
-3064,Round 2,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,48120,108089
-3065,Round 2,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,65837,65837
-3066,Round 2,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,24892,24892
-3067,Round 2,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,614061,781060
 3068,Round 2,"Academy of Technology, Adisaptagram, Hooghly",Electrical & Electronics Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,309060,535550
 3069,Round 2,"Academy of Technology, Adisaptagram, Hooghly",Electrical & Electronics Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,60162,110814
 3070,Round 2,"Academy of Technology, Adisaptagram, Hooghly",Electrical & Electronics Engineering (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,17063,19193
@@ -3143,12 +3078,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 3142,Round 2,"Budge Budge Institute of Technology, Budge-Budge",Computer Science & Engineering (Cyber Security) (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,41552,41552
 3143,Round 2,"Budge Budge Institute of Technology, Budge-Budge",Computer Science & Engineering (Artificial Intelligence),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,679612,936297
 3144,Round 2,"Budge Budge Institute of Technology, Budge-Budge",Computer Science & Engineering (Artificial Intelligence) (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,38527,40505
-3145,Round 2,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,695503,695503
-3146,Round 2,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,266827,703446
-3147,Round 2,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,5713,102182
-3148,Round 2,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,106706,204008
-3149,Round 2,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,21064,73499
-3150,Round 2,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,347099,806034
 3151,Round 2,"Calcutta Institute of Technology, Uluberia, Howrah",Chemical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,391550,1160810
 3152,Round 2,"Calcutta Institute of Technology, Uluberia, Howrah",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,280900,568848
 3153,Round 2,"Calcutta Institute of Technology, Uluberia, Howrah",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,61482,109336
@@ -3189,17 +3118,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 3188,Round 2,"Durgapur Institute of Advanced Technology & Management, Durgapur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,474223,1079448
 3189,Round 2,"Durgapur Institute of Advanced Technology & Management, Durgapur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,84196,109390
 3190,Round 2,"Durgapur Institute of Advanced Technology & Management, Durgapur",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,30932,33100
-3191,Round 2,"Future Institute of Engineering & Management, Sonarpur",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,697240,967742
-3192,Round 2,"Future Institute of Engineering & Management, Sonarpur",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,82654,94693
-3193,Round 2,"Future Institute of Engineering & Management, Sonarpur",Information Technology (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,24559,24559
-3194,Round 2,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,241798,358311
-3195,Round 2,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,46655,64115
-3196,Round 2,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,67396,103676
-3197,Round 2,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,21126,22655
-3198,Round 2,"Future Institute of Engineering & Management, Sonarpur",Electronics & Communication Engineering (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,28093,32963
-3199,Round 2,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,560509,652602
-3200,Round 2,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,98134,105726
-3201,Round 2,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering (Data Science) (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,25814,29722
 3202,Round 2,"Future Institute of Technology, Boral, Garia",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,659081,1413998
 3203,Round 2,"Future Institute of Technology, Boral, Garia",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,78547,104315
 3204,Round 2,"Future Institute of Technology, Boral, Garia",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,23694,25131
@@ -3313,7 +3231,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 3312,Round 3,Swami Vivekananda University,Data Science,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,1163599,1163599
 3313,Round 3,Swami Vivekananda University,Data Science,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,47716,93294
 3314,Round 3,"Netaji Subhas Engineering College, Garia, Kolkata",ARTIFICIAL INTELLIGENCE (AI) AND DATA SCIENCE - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,13537,13537
-3315,Round 3,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,555671,555671
 3316,Round 3,"B.P. Poddar Institute of Management & Technology, Kolkata",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,59110,107946
 3317,Round 3,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,3157,3642
 3318,Round 3,"Academy of Technology, Adisaptagram, Hooghly",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,20000,28744
@@ -3327,7 +3244,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 3326,Round 3,"Ramkrishna Mahato Government Engineering College, Purulia",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,18929,27502
 3327,Round 3,"Ramkrishna Mahato Government Engineering College, Purulia",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open,6315,9029
 3328,Round 3,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Electrical Engineering (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,3075,3075
-3329,Round 3,"Future Institute of Engineering & Management, Sonarpur",Information Technology (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,28971,28971
 3330,Round 3,"Guru Nanak Institute of Technology, Panihati, Sodepur",Information Technology (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,17645,17645
 3331,Round 3,"Bengal College of Engineering & Technology, Durgapur",Information Technology (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,15584,35506
 3332,Round 3,"Netaji Subhas Engineering College, Garia, Kolkata",Information Technology (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,6617,6617
@@ -3369,7 +3285,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 3368,Round 3,"UNIVERSITY OF KALYANI, KALYANI",Electronics & Communication Engineering (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,5786,5786
 3369,Round 3,"Narula Institute of Technology, Agarpara, Kolkata",Electronics & Communication Engineering (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,12728,12728
 3370,Round 3,"Budge Budge Institute of Technology, Budge-Budge",Electronics & Communication Engineering (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,33275,33275
-3371,Round 3,"Future Institute of Engineering & Management, Sonarpur",Electronics & Communication Engineering (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,16906,20765
 3372,Round 3,"Guru Nanak Institute of Technology, Panihati, Sodepur",Electronics & Communication Engineering (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,22549,22549
 3373,Round 3,"Netaji Subhas Engineering College, Garia, Kolkata",Electronics & Communication Engineering (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,11269,12604
 3374,Round 3,"Techno Main Salt Lake, Sector-V, Salt Lake",Electronics & Communication Engineering (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,8114,11097
@@ -3381,13 +3296,11 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 3380,Round 3,"Sister Nivedita University, New Town",Computer Science & Engineering (Artificial Intelligence And Machine Learning) (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,19392,26969
 3381,Round 3,"College of Engineering and Management, Kolaghat",Computer Science & Engineering (Artificial Intelligence And Machine Learning) (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,22464,22464
 3382,Round 3,"Future Institute of Technology, Boral, Garia",Computer Science & Engineering (Artificial Intelligence And Machine Learning) (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,44048,44048
-3383,Round 3,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,15952,34188
 3384,Round 3,"Heritage Institute of Technology, Kolkata",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,3806,5713
 3385,Round 3,"Narula Institute of Technology, Agarpara, Kolkata",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,30107,65005
 3386,Round 3,"Netaji Subhas Engineering College, Garia, Kolkata",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,12676,32542
 3387,Round 3,"Techno International New Town, Rajarhat, New Town",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,22729,22729
 3388,Round 3,"Haldia Institute of Technology, Haldia, Purba Medinipur",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,5092,9019
-3389,Round 3,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,804319,804319
 3390,Round 3,"Haldia Institute of Technology, Haldia, Purba Medinipur",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,59008,102707
 3391,Round 3,"Govt. College of Engg. & Textile Technology, Berhampore",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,33809,37985
 3392,Round 3,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,22444,32681
@@ -3396,7 +3309,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 3395,Round 3,"Techno India University, Salt Lake",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,74042,74042
 3396,Round 3,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,28239,35955
 3397,Round 3,"B.P. Poddar Institute of Management & Technology, Kolkata",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,506741,506741
-3398,Round 3,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,48576,93401
 3399,Round 3,"Guru Nanak Institute of Technology, Panihati, Sodepur",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,83746,83746
 3400,Round 3,"Narula Institute of Technology, Agarpara, Kolkata",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,31628,105486
 3401,Round 3,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,21082,25575
@@ -3451,7 +3363,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 3450,Round 3,"Haldia Institute of Technology, Haldia, Purba Medinipur",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,431486,1362821
 3451,Round 3,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open,3975,5321
 3452,Round 3,"Ramkrishna Mahato Government Engineering College, Purulia",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,49018,64069
-3453,Round 3,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,29534,109244
 3454,Round 3,"Sister Nivedita University, New Town",COMPUTER SCIENCE AND APPLIED MATHEMATICS,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,699649,699649
 3455,Round 3,Jadavpur University,Metallurgical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open (PwD),64924,64924
 3456,Round 3,Jadavpur University,Metallurgical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,8912,10261
@@ -3507,7 +3418,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 3506,Round 3,"Heritage Institute of Technology, Kolkata",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,74731,74731
 3507,Round 3,"Netaji Subhas Engineering College, Garia, Kolkata",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,238630,251400
 3508,Round 3,"Mckv Institute of Engineering, Liluah, Howrah",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,23298,104111
-3509,Round 3,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,544262,544262
 3510,Round 3,"Meghnad Saha Institute of Technology, Kolkata",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,640811,876203
 3511,Round 3,"Techno Main Salt Lake, Sector-V, Salt Lake",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,5571,12917
 3512,Round 3,"Kaji Nazrul University, Asansol",Computer Science & Engineering (Data Science),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,9779,13709
@@ -3532,7 +3442,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 3531,Round 3,"Kalyani Goverment Engineering College, Kalyani, Nadia",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,3082,3082
 3532,Round 3,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,10289,12760
 3533,Round 3,"Kalyani Goverment Engineering College, Kalyani, Nadia",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,3897,4110
-3534,Round 3,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,34724,108599
 3535,Round 3,"Sanaka Education Trusts Group of Institutions, Durgapur, Burdwan",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,543610,543610
 3536,Round 3,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,14065,19455
 3537,Round 3,"Cooch Behar Government Engineering College, Cooch Behar",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,19877,38461
@@ -3648,11 +3557,9 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 3647,Round 3,University Of Calcutta,Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,2598,2598
 3648,Round 3,"Asansol Engineering College, Asansol, Burdwan",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,311513,582313
 3649,Round 3,"Dr. B. C. Roy Engineering College, Durgapur",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,265679,363015
-3650,Round 3,"Future Institute of Engineering & Management, Sonarpur",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,477181,477181
 3651,Round 3,"UNIVERSITY OF KALYANI, KALYANI",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,8033,35700
 3652,Round 3,"Goverment College of Engineering and Leather Technology, Kolkata",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,5871,5871
 3653,Round 3,"Kalyani Goverment Engineering College, Kalyani, Nadia",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open (PwD),38291,38291
-3654,Round 3,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,15753,66380
 3655,Round 3,"Guru Nanak Institute of Technology, Panihati, Sodepur",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,79613,85251
 3656,Round 3,"Narula Institute of Technology, Agarpara, Kolkata",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,22452,55058
 3657,Round 3,"St. Thomas College of Engineering & Technology, Khidirpur, Kolkata",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,302168,325845
@@ -3706,19 +3613,15 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 3705,Round 3,"Meghnad Saha Institute of Technology, Kolkata",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,327340,393560
 3706,Round 3,"Rcc Institute of Information Technology, Kolkata",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,84934,105428
 3707,Round 3,"Dr. B. C. Roy Engineering College, Durgapur",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,64797,105513
-3708,Round 3,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,13880,13880
-3709,Round 3,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,19449,23137
 3710,Round 3,"Netaji Subhas Engineering College, Garia, Kolkata",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,4841,4841
 3711,Round 3,"Nshm Knowledge Campus, Durgapur Group of Institutions",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,19502,30425
 3712,Round 3,"Siliguri Institute of Technology, Siliguri",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,24207,24207
 3713,Round 3,"Asansol Engineering College, Asansol, Burdwan",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,14373,21485
 3714,Round 3,"Bengal Institute of Technology, Dhapa, Kolkata",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,19091,19091
 3715,Round 3,"Dr. B. C. Roy Engineering College, Durgapur",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,11718,12106
-3716,Round 3,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,13180,14208
 3717,Round 3,"Pailan College of Management & Technology, Pailan Park",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,47965,47965
 3718,Round 3,"Sister Nivedita University, New Town",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,11820,19585
 3719,Round 3,"Budge Budge Institute of Technology, Budge-Budge",Computer Science & Engineering - TFW,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,27110,27110
-3720,Round 3,"Future Institute of Engineering & Management, Sonarpur",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,41355,41355
 3721,Round 3,"Regent Education and Research Foundation, Barasat, Kolkata",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,29300,29300
 3722,Round 3,Jadavpur University,Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,3520,3754
 3723,Round 3,"Ramkrishna Mahato Government Engineering College, Purulia",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,19933,25729
@@ -3748,7 +3651,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 3747,Round 3,Jadavpur University,Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open,850,1032
 3748,Round 3,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,32453,33169
 3749,Round 3,"Aliah University, New Town",Civil Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open,7469,12981
-3750,Round 3,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,72820,94763
 3751,Round 3,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,157152,169842
 3752,Round 3,"Academy of Technology, Adisaptagram, Hooghly",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,32631,59308
 3753,Round 3,"Cooch Behar Government Engineering College, Cooch Behar",Mechanical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,30235,31773
@@ -3888,7 +3790,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 3887,Round 3,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,37582,54239
 3888,Round 3,University Of Calcutta,Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open,1721,1937
 3889,Round 3,"Cooch Behar Government Engineering College, Cooch Behar",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,33482,37690
-3890,Round 3,"Future Institute of Engineering & Management, Sonarpur",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,34766,34766
 3891,Round 3,"Netaji Subhas Engineering College, Garia, Kolkata",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,19583,51400
 3892,Round 3,"Techno International New Town, Rajarhat, New Town",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,40338,40338
 3893,Round 3,"UNIVERSITY INSTITUTE OF TECHNOLOGY, BURDWAN UNIVERSITY",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,27711,32519
@@ -3914,7 +3815,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 3913,Round 3,University Of Calcutta,Instrumentation Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,12872,13593
 3914,Round 3,University Of Calcutta,Instrumentation Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open,1879,2290
 3915,Round 3,University Of Calcutta,Instrumentation Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,4750,4824
-3916,Round 3,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,851222,1142441
 3917,Round 3,"Meghnad Saha Institute of Technology, Kolkata",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,37256,110464
 3918,Round 3,"Techno International New Town, Rajarhat, New Town",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,462809,478087
 3919,Round 3,"Techno Main Salt Lake, Sector-V, Salt Lake",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,6866,10131
@@ -3931,8 +3831,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 3930,Round 3,"Techno Engineering Collge Banipur, 24 Parganas-North",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,90371,90371
 3931,Round 3,"Adamas University, Barasat",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,261423,1100930
 3932,Round 3,"Govt. College of Engineering & Textile Technology, Serampore",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,11807,16197
-3933,Round 3,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,286966,961657
-3934,Round 3,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,18720,82605
 3935,Round 3,"Bankura Unnayani Institute of Engineering, Bankura",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,27588,105503
 3936,Round 3,"Hooghly Engineering & Technology College, Hooghly",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,159649,411769
 3937,Round 3,"Sanaka Education Trusts Group of Institutions, Durgapur, Burdwan",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,34193,109170
@@ -3959,12 +3857,10 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 3958,Round 3,ALIPURDUAR GOVERNMENT ENGINEERING AND MANAGEMENT COLLEGE,Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,22356,26164
 3959,Round 3,"Cooch Behar Government Engineering College, Cooch Behar",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,10712,12040
 3960,Round 3,"Kalyani Goverment Engineering College, Kalyani, Nadia",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,4920,4920
-3961,Round 3,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,43250,43250
 3962,Round 3,"B.P. Poddar Institute of Management & Technology, Kolkata",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,302477,302477
 3963,Round 3,"Bengal College of Engineering & Technology, Durgapur",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,31542,31542
 3964,Round 3,"Dr.Sudhir Chandra Sur Institute of Technology and Sports Complex, Dum Dum",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,246544,246544
 3965,Round 3,"Rcc Institute of Information Technology, Kolkata",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,13918,107069
-3966,Round 3,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,282971,1352809
 3967,Round 3,"Meghnad Saha Institute of Technology, Kolkata",Electronics & Communication Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,44249,103244
 3968,Round 3,"Ideal Institute of Engineering, Kalyani",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,18742,96631
 3969,Round 3,"Netaji Subhas Engineering College, Garia, Kolkata",Electrical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,46694,85319
@@ -4016,7 +3912,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 4015,Round 3,"St. Thomas College of Engineering & Technology, Khidirpur, Kolkata",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,42080,60581
 4016,Round 3,University Of Calcutta,Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open,1699,1896
 4017,Round 3,"Govt. College of Engineering & Ceramic Technology, Kolkata",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open,3812,4749
-4018,Round 3,"Future Institute of Engineering & Management, Sonarpur",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,94616,103515
 4019,Round 3,"Techno International New Town, Rajarhat, New Town",Information Technology,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,15876,104326
 4020,Round 3,"Asansol Engineering College, Asansol, Burdwan",Computer Science And Business System,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,41531,93798
 4021,Round 3,"Heritage Institute of Technology, Kolkata",Computer Science And Business System,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,68699,97885
@@ -4064,7 +3959,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 4063,Round 3,Jadavpur University,Food Technology And Bio Chemical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,2994,2994
 4064,Round 3,Jadavpur University,Food Technology And Bio Chemical Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open,1914,2687
 4065,Round 3,"Sanaka Education Trusts Group of Institutions, Durgapur, Burdwan",Computer Science & Engineering (Data Science) (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,42215,48294
-4066,Round 3,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering (Data Science) (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,28113,34558
 4067,Round 3,"Sister Nivedita University, New Town",Computer Science & Engineering (Data Science) (TFW),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Tuition Fee Waiver,30063,30063
 4068,Round 3,"Asansol Engineering College, Asansol, Burdwan",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,339563,589827
 4069,Round 3,"Mckv Institute of Engineering, Liluah, Howrah",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,26194,84692
@@ -4174,7 +4068,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 4173,Round 3,"Budge Budge Institute of Technology, Budge-Budge",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,487166,896900
 4174,Round 3,"Calcutta Institute of Technology, Uluberia, Howrah",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,267795,1216099
 4175,Round 3,"Dream Institute of Technology, Bishnupur, 24-Parganas-South",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,92152,106033
-4176,Round 3,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,68658,92316
 4177,Round 3,"Academy of Technology, Adisaptagram, Hooghly",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,2176,20083
 4178,Round 3,"Heritage Institute of Technology, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,36921,55709
 4179,Round 3,"Heritage Institute of Technology, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,96789,96789
@@ -4206,9 +4099,7 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 4205,Round 3,"Goverment College of Engineering and Leather Technology, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,16495,23503
 4206,Round 3,"Govt. College of Engineering & Ceramic Technology, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,16124,16726
 4207,Round 3,"B.P. Poddar Institute of Management & Technology, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,11602,37008
-4208,Round 3,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,46865,429084
 4209,Round 3,"College of Engineering and Management, Kolaghat",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,17528,109955
-4210,Round 3,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,469691,469691
 4211,Round 3,"Guru Nanak Institute of Technology, Panihati, Sodepur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,487965,1130932
 4212,Round 3,"Guru Nanak Institute of Technology, Panihati, Sodepur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,71775,75659
 4213,Round 3,"Narula Institute of Technology, Agarpara, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,25360,25360
@@ -4229,7 +4120,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 4228,Round 3,"Govt. College of Engineering & Ceramic Technology, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open (PwD),82804,82804
 4229,Round 3,"Govt. College of Engineering & Textile Technology, Serampore",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - A,14342,14342
 4230,Round 3,"Ramkrishna Mahato Government Engineering College, Purulia",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,SC,18504,18852
-4231,Round 3,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,3523,106981
 4232,Round 3,"Camellia Institute of Technology & Management, Bainchi, Hooghly",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,35523,95106
 4233,Round 3,"Govt. College of Engineering & Textile Technology, Serampore",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,OBC - B,5301,5301
 4234,Round 3,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,Open,1882,2157
@@ -4260,7 +4150,6 @@ Sr.No,Round,Institute,Program,Stream,Seat Type,Quota,Category,Opening Rank,Closi
 4259,Round 3,"Budge Budge Institute of Technology, Budge-Budge",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,52028,99052
 4260,Round 3,"Dr. B. C. Roy Engineering College, Durgapur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,EWS,66590,66590
 4261,Round 3,"Dr.Sudhir Chandra Sur Institute of Technology and Sports Complex, Dum Dum",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),JEE(Main) Seats,All India,Open,636037,636037
-4262,Round 3,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,4914,67396
 4263,Round 3,"Guru Nanak Institute of Technology, Panihati, Sodepur",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,12266,58848
 4264,Round 3,"Murshidabad College of Engineering & Technology, Murshidabad",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,All India,Open,14099,95910
 4265,Round 3,"Govt. College of Engg. & Textile Technology, Berhampore",Computer Science & Engineering,B.E/B.Tech (WBJEE/JEE(Main) Seats)/B.Arch (WBJEE Seats),WBJEE Seats,Home State,ST,79506,79506

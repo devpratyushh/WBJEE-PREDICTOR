@@ -3,14 +3,12 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 2,Round 1,"Goverment College of Engineering and Leather Technology, Kolkata",Leather Technology,B.E/B. Tech,Home State,SC,17762,19763
 3,Round 1,"Goverment College of Engineering and Leather Technology, Kolkata",Leather Technology,B.E/B. Tech,Home State,ST,36054,62310
 4,Round 1,"Guru Nanak Institute of Technology, Panihati, Sodepur",Food Technology,B.E/B. Tech,All India,Open,19555,79363
-5,Round 1,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering (Data Science) (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,15791,18116
 6,Round 1,"Heritage Institute of Technology, Kolkata",Computer Science & Engineering (Data Science) (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,4011,4371
 7,Round 1,"Goverment College of Engineering and Leather Technology, Kolkata",Leather Technology,B.E/B. Tech,Home State,Open,6049,12046
 8,Round 1,Jadavpur University,Production Engineering,B.E/B. Tech,Home State,ST,14578,20981
 9,Round 1,"Guru Nanak Institute of Technology, Panihati, Sodepur",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,7780,14050
 10,Round 1,"Hooghly Engineering & Technology College, Hooghly",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,11848,17534
 11,Round 1,"Bengal Institute of Technology, Dhapa, Kolkata",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,10591,17856
-12,Round 1,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,11824,13150
 13,Round 1,"Goverment College of Engineering and Leather Technology, Kolkata",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,2059,2997
 14,Round 1,University Of Calcutta,Optics & Optoelectronics,B.E/B. Tech,All India,Open,1582,2348
 15,Round 1,University Of Calcutta,Polymer Science & Technology,B.E/B. Tech,Home State,SC,12586,13672
@@ -53,9 +51,7 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 52,Round 1,"Haldia Institute of Technology, Haldia, Purba Medinipur",Biotechnology,B.E/B. Tech,Home State,SC,42485,71695
 53,Round 1,"Haldia Institute of Technology, Haldia, Purba Medinipur",Chemical Engineering,B.E/B. Tech,All India,Open,3776,27874
 54,Round 1,"Seacom Skills University, Bolpur",Mechanical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,28897,33660
-55,Round 1,"Institute of Engineering & Management, Salt Lake",Computer Science & Engineering (Internet Of Things And Cyber Security Including Block Chain Technology),B.E/B. Tech,All India,Open,2454,5347
 56,Round 1,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Mechanical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,11460,12904
-57,Round 1,"Institute of Engineering & Management, Salt Lake",Mechanical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,11107,11107
 58,Round 1,"Heritage Institute of Technology, Kolkata",Biotechnology,B.E/B. Tech,All India,Open,4440,14763
 59,Round 1,"Heritage Institute of Technology, Kolkata",Computer Science & Engineering (Internet Of Things And Cyber Security Including Block Chain Technology),B.E/B. Tech,Home State,SC,9110,9110
 60,Round 1,"Heritage Institute of Technology, Kolkata",Chemical Engineering,B.E/B. Tech,All India,Open,3464,19587
@@ -111,13 +107,11 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 110,Round 1,Uttar Banga Krishi Viswa Vidyalaya,Agricultural Engineering,B.E/B. Tech,Home State,Open (PwD),10883,10883
 111,Round 1,Uttar Banga Krishi Viswa Vidyalaya,Agricultural Engineering,B.E/B. Tech,All India,Open,5351,9554
 112,Round 1,"Haldia Institute of Technology, Haldia, Purba Medinipur",Chemical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,5213,18572
-113,Round 1,"Institute of Engineering & Management, Salt Lake",Electronics & Communication Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,2994,4725
 114,Round 1,"Kaji Nazrul University, Asansol",Metallurgical And Materials Engineering,B.E/B. Tech,Home State,SC,21790,26714
 115,Round 1,"Kaji Nazrul University, Asansol",Metallurgical And Materials Engineering,B.E/B. Tech,All India,Open,8072,16377
 116,Round 1,"Kaji Nazrul University, Asansol",Metallurgical And Materials Engineering,B.E/B. Tech,Home State,OBC - A,29948,31893
 117,Round 1,"Kaji Nazrul University, Asansol",Metallurgical And Materials Engineering,B.E/B. Tech,Home State,OBC - B,20158,20339
 118,Round 1,"Hooghly Engineering & Technology College, Hooghly",Electronics & Communication Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,24203,26061
-119,Round 1,"Future Institute of Engineering & Management, Sonarpur",Electronics & Communication Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,14752,26153
 120,Round 1,"Guru Nanak Institute of Technology, Panihati, Sodepur",Electronics & Communication Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,18739,24193
 121,Round 1,"Heritage Institute of Technology, Kolkata",Chemical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,7927,10193
 122,Round 1,"Heritage Institute of Technology, Kolkata",Electronics & Communication Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,4996,6128
@@ -125,9 +119,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 124,Round 1,"Rcc Institute of Information Technology, Kolkata",Applied Electronics And Instrumentation Engineering,B.E/B. Tech,Home State,SC,57976,75481
 125,Round 1,"Haldia Institute of Technology, Haldia, Purba Medinipur",Applied Electronics And Instrumentation Engineering,B.E/B. Tech,All India,Open,13012,50831
 126,Round 1,Swami Vivekananda University,Data Science,B.E/B. Tech,All India,Open,15128,79887
-127,Round 1,"Institute of Engineering & Management, Salt Lake",Computer Science & Engineering (Artificial Intelligence) (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,2902,4294
-128,Round 1,"Institute of Engineering & Management, Salt Lake",Electrical & Electronics Engineering,B.E/B. Tech,All India,Open,2445,10191
-129,Round 1,"Institute of Engineering & Management, Salt Lake",Computer Science & Business System (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,5718,6249
 130,Round 1,"Heritage Institute of Technology, Kolkata",Applied Electronics And Instrumentation Engineering,B.E/B. Tech,Home State,SC,17584,17584
 131,Round 1,"Heritage Institute of Technology, Kolkata",Computer Science & Business System (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,6616,7194
 132,Round 1,"Narula Institute of Technology, Agarpara, Kolkata",Computer Science & Business System (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,17003,20779
@@ -139,10 +130,7 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 138,Round 1,University Of Calcutta,Instrumentation Engineering,B.E/B. Tech,All India,Open,1211,1324
 139,Round 1,University Of Calcutta,Instrumentation Engineering,B.E/B. Tech,Home State,SC,5721,8780
 140,Round 1,University Of Calcutta,Instrumentation Engineering,B.E/B. Tech,Home State,OBC - A,7798,8005
-141,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Civil Engineering,B.E/B. Tech,All India,Open,6314,58312
-142,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Civil Engineering,B.E/B. Tech,Home State,OBC - A,68478,68478
 143,Round 1,"Birbhum Institute of Engineering & Technology, Suri, Birbhum",Civil Engineering,B.E/B. Tech,All India,Open,24276,77809
-144,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Civil Engineering,B.E/B. Tech,Home State,SC,59412,69373
 145,Round 1,"Institute of Pharmacy, Jalpaiguri",B.Pharm/Pharmaceutical Technology (TFW),B. Pharma,Home State,Tuition Fee Waiver,666,2008
 146,Round 1,"Bankura Unnayani Institute of Engineering, Bankura",Civil Engineering,B.E/B. Tech,All India,Open,23199,74875
 147,Round 1,"Imps College of Engineering & Technology, Malda",Civil Engineering,B.E/B. Tech,All India,Open,21194,47958
@@ -193,7 +181,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 192,Round 1,"Mckv Institute of Engineering, Liluah, Howrah",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,8208,12354
 193,Round 1,"St. Thomas College of Engineering & Technology, Khidirpur, Kolkata",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,5155,7333
 194,Round 1,"Mckv Institute of Engineering, Liluah, Howrah",Computer Science & Engineering (Data Science) (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,17772,20071
-195,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,17832,21592
 196,Round 1,"Bankura Unnayani Institute of Engineering, Bankura",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,18755,21483
 197,Round 1,"Techno Engineering Collge Banipur, 24 Parganas-North",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,13369,21607
 198,Round 1,"University Institute of Technology, Burdwan (Self Financing Course)",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,1973,6788
@@ -272,7 +259,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 271,Round 1,"Kalyani Goverment Engineering College, Kalyani, Nadia",Mechanical Engineering,B.E/B. Tech,Home State,OBC - A (PwD),78491,78491
 272,Round 1,"Kalyani Goverment Engineering College, Kalyani, Nadia",Computer Science & Engineering,B.E/B. Tech,Home State,OBC - B,1139,1300
 273,Round 1,University Of Calcutta,Jute & Fibre Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,6123,7839
-274,Round 1,"Institute of Engineering & Management, Salt Lake",Computer Science & Engineering (Artificial Intelligence),B.E/B. Tech,All India,Open,2110,4601
 275,Round 1,Jadavpur University,Metallurgical Engineering,B.E/B. Tech,Home State,OBC - B,2155,2437
 276,Round 1,Jadavpur University,Metallurgical Engineering,B.E/B. Tech,Home State,ST,17828,23100
 277,Round 1,Jadavpur University,Metallurgical Engineering,B.E/B. Tech,Home State,Open (PwD),30769,30769
@@ -357,11 +343,9 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 356,Round 1,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Electrical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,2413,3157
 357,Round 1,"Kaji Nazrul University, Asansol",Mining Engineering,B.E/B. Tech,Home State,OBC - A,18128,24673
 358,Round 1,"Kaji Nazrul University, Asansol",Mining Engineering,B.E/B. Tech,Home State,OBC - B,18645,19062
-359,Round 1,"Institute of Engineering & Management, Salt Lake",Electrical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,6212,8403
 360,Round 1,"Kaji Nazrul University, Asansol",Mining Engineering,B.E/B. Tech,Home State,SC,21040,26661
 361,Round 1,"Kaji Nazrul University, Asansol",Mining Engineering,B.E/B. Tech,Home State,ST,68449,68449
 362,Round 1,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Electrical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,6840,9089
-363,Round 1,"Institute of Engineering & Management, Salt Lake",Information Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,2371,2806
 364,Round 1,"Seacom Skills University, Bolpur",Electrical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,34234,35298
 365,Round 1,Jadavpur University,Chemical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,612,1225
 366,Round 1,Jadavpur University,Electronics & Tele-Communication Engineering,B.E/B. Tech,Home State,OBC - B,259,585
@@ -382,11 +366,9 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 381,Round 1,Jadavpur University,Construction Engineering,B.E/B. Tech,Home State,Open (PwD),41122,41122
 382,Round 1,Jadavpur University,Construction Engineering,B.E/B. Tech,Home State,Open,1248,1618
 383,Round 1,"University of Kalyani, Science Instrumentation Centre",Electronics And Instrumentation Engineering,B.E/B. Tech,All India,Open,1096,4352
-384,Round 1,"Institute of Engineering & Management, Salt Lake",Computer Science & Engineering (Artificial Intelligence And Machine Learning) (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,2901,3933
 385,Round 1,"Kaji Nazrul University, Asansol",Computer Science & Engineering (Data Science),B.E/B. Tech,Home State,Open (PwD),76953,76953
 386,Round 1,"Kaji Nazrul University, Asansol",Computer Science & Engineering (Data Science),B.E/B. Tech,Home State,SC,10652,17636
 387,Round 1,"Kaji Nazrul University, Asansol",Computer Science & Engineering (Data Science),B.E/B. Tech,Home State,ST,45551,56735
-388,Round 1,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering (Data Science),B.E/B. Tech,Home State,SC,43279,53531
 389,Round 1,"Heritage Institute of Technology, Kolkata",Biotechnology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,5578,7237
 390,Round 1,"Narula Institute of Technology, Agarpara, Kolkata",Computer Science & Engineering (Artificial Intelligence And Machine Learning) (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,12135,17667
 391,Round 1,"Heritage Institute of Technology, Kolkata",Computer Science & Engineering (Data Science),B.E/B. Tech,Home State,ST,49807,49807
@@ -407,16 +389,13 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 406,Round 1,"Goverment College of Engineering and Leather Technology, Kolkata",Computer Science & Engineering,B.E/B. Tech,Home State,Open,1800,3608
 407,Round 1,"Goverment College of Engineering and Leather Technology, Kolkata",Computer Science & Engineering,B.E/B. Tech,Home State,Open (PwD),18911,25367
 408,Round 1,"Goverment College of Engineering and Leather Technology, Kolkata",Computer Science & Engineering,B.E/B. Tech,Home State,SC,5492,9190
-409,Round 1,"Institute of Engineering & Management, Salt Lake",Information Technology,B.E/B. Tech,All India,Open,1207,3822
 410,Round 1,"Govt. College of Engineering & Textile Technology, Serampore",Information Technology,B.E/B. Tech,Home State,OBC - A,11103,12708
 411,Round 1,"Govt. College of Engineering & Textile Technology, Serampore",Information Technology,B.E/B. Tech,Home State,Open,4443,5603
 412,Round 1,"Govt. College of Engineering & Textile Technology, Serampore",Apparel & Production Management,B.E/B. Tech,Home State,Open,13172,19607
 413,Round 1,"Goverment College of Engineering and Leather Technology, Kolkata",Information Technology,B.E/B. Tech,Home State,OBC - B,4719,4875
 414,Round 1,"Guru Nanak Institute of Technology, Panihati, Sodepur",Information Technology,B.E/B. Tech,All India,Open,1891,31340
 415,Round 1,"Narula Institute of Technology, Agarpara, Kolkata",Information Technology,B.E/B. Tech,All India,Open,1316,22718
-416,Round 1,"Future Institute of Engineering & Management, Sonarpur",Information Technology,B.E/B. Tech,Home State,SC,31265,35820
 417,Round 1,"Heritage Institute of Technology, Kolkata",Information Technology,B.E/B. Tech,Home State,SC,6395,6395
-418,Round 1,"Future Institute of Engineering & Management, Sonarpur",Information Technology,B.E/B. Tech,All India,Open,15945,30924
 419,Round 1,"Guru Nanak Institute of Technology, Panihati, Sodepur",Information Technology,B.E/B. Tech,Home State,SC,31835,34597
 420,Round 1,"Guru Nanak Institute of Technology, Panihati, Sodepur",Information Technology,B.E/B. Tech,Home State,ST,73243,73243
 421,Round 1,"Goverment College of Engineering and Leather Technology, Kolkata",Information Technology,B.E/B. Tech,Home State,OBC - A,6493,11167
@@ -443,7 +422,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 442,Round 1,"Goverment College of Engineering and Leather Technology, Kolkata",Information Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,3368,3526
 443,Round 1,"Heritage Institute of Technology, Kolkata",Information Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,2892,3008
 444,Round 1,"Narula Institute of Technology, Agarpara, Kolkata",Information Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,11235,12648
-445,Round 1,"Future Institute of Engineering & Management, Sonarpur",Information Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,10440,13821
 446,Round 1,"Guru Nanak Institute of Technology, Panihati, Sodepur",Information Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,15081,17893
 447,Round 1,"Gargi Memorial Institute of Technology, Baruipur, Kolkata",Electrical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,28919,30837
 448,Round 1,University Of Calcutta,Electronics & Communication Engineering,B.E/B. Tech,Home State,ST,21573,21573
@@ -454,11 +432,9 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 453,Round 1,University Of Calcutta,Electronics & Communication Engineering,B.E/B. Tech,Home State,OBC - A,4624,4624
 454,Round 1,University Of Calcutta,Electronics & Communication Engineering,B.E/B. Tech,Home State,OBC - B,1227,1227
 455,Round 1,"Bankura Unnayani Institute of Engineering, Bankura",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,35366,73623
-456,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,24570,80116
 457,Round 1,"University Institute of Technology, Burdwan (Self Financing Course)",Electronics & Communication Engineering,B.E/B. Tech,Home State,SC,16295,21038
 458,Round 1,"Imps College of Engineering & Technology, Malda",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,10322,77207
 459,Round 1,"Camellia Institute of Technology & Management, Bainchi, Hooghly",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,62853,62853
-460,Round 1,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering (Data Science),B.E/B. Tech,All India,Open,15887,43250
 461,Round 1,"Techno Main Salt Lake, Sector-V, Salt Lake",Computer Science & Engineering (Data Science),B.E/B. Tech,All India,Open,4316,9340
 462,Round 1,"Techno Main Salt Lake, Sector-V, Salt Lake",Computer Science & Engineering (Artificial Intelligence And Machine Learning) (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,5033,6437
 463,Round 1,"Supreme Knowledge Foundation Group of Institutions, Mankundu, Hooghly",Computer Science & Engineering (Artificial Intelligence And Machine Learning) (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,24197,24197
@@ -477,7 +453,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 476,Round 1,"Sanaka Education Trusts Group of Institutions, Durgapur, Burdwan",Computer Science & Engineering,B.E/B. Tech,Home State,SC,63325,63325
 477,Round 1,"Hooghly Engineering & Technology College, Hooghly",Mechanical Engineering,B.E/B. Tech,All India,Open,3495,71857
 478,Round 1,"Sanaka Education Trusts Group of Institutions, Durgapur, Burdwan",Computer Science & Engineering,B.E/B. Tech,Home State,OBC - B,58497,71313
-479,Round 1,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering,B.E/B. Tech,Home State,SC,23540,26208
 480,Round 1,"Narula Institute of Technology, Agarpara, Kolkata",Electronics And Instrumentation Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,26937,26937
 481,Round 1,"Greater Kolkata College of Engineering & Management, Baruipur",Computer Science & Engineering,B.E/B. Tech,All India,Open,18740,77236
 482,Round 1,"Rcc Institute of Information Technology, Kolkata",Computer Science & Engineering,B.E/B. Tech,All India,Open,2922,11792
@@ -503,7 +478,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 502,Round 1,"Techno Main Salt Lake, Sector-V, Salt Lake",Information Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,4434,4898
 503,Round 1,"Govt. College of Engg. & Textile Technology, Berhampore",Electrical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,7284,7284
 504,Round 1,"Jis College of Engineering, Kalyani, Nadia",Information Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,16145,20039
-505,Round 1,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Information Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,20604,21512
 506,Round 1,"Academy of Technology, Adisaptagram, Hooghly",Electrical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,15157,20114
 507,Round 1,"Seacom Engineering College, Sankrail, Howrah",Electrical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,29624,33049
 508,Round 1,"B.P. Poddar Institute of Management & Technology, Kolkata",Information Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,7945,10456
@@ -586,7 +560,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 585,Round 1,"Kalyani Goverment Engineering College, Kalyani, Nadia",Electrical Engineering,B.E/B. Tech,Home State,Open (PwD),46332,46332
 586,Round 1,"Kalyani Goverment Engineering College, Kalyani, Nadia",Electrical Engineering,B.E/B. Tech,Home State,SC,5289,8237
 587,Round 1,"Kalyani Goverment Engineering College, Kalyani, Nadia",Electrical Engineering,B.E/B. Tech,Home State,ST,20273,23931
-588,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Electrical Engineering,B.E/B. Tech,All India,Open,14227,76275
 589,Round 1,"Birbhum Institute of Engineering & Technology, Suri, Birbhum",Electrical Engineering,B.E/B. Tech,All India,Open,45183,70435
 590,Round 1,"Bankura Unnayani Institute of Engineering, Bankura",Electrical Engineering,B.E/B. Tech,All India,Open,19947,78699
 591,Round 1,"University Institute of Technology, Burdwan (Self Financing Course)",Electrical Engineering,B.E/B. Tech,All India,Open,4056,15383
@@ -617,10 +590,7 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 616,Round 1,"Techno International New Town, Rajarhat, New Town",Computer Science & Business System,B.E/B. Tech,All India,Open,16812,50162
 617,Round 1,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Electronics & Communication Engineering,B.E/B. Tech,Home State,OBC - B,2828,3135
 618,Round 1,"Rcc Institute of Information Technology, Kolkata",Electronics & Communication Engineering,B.E/B. Tech,Home State,SC,28057,42990
-619,Round 1,"Institute of Engineering & Management, Salt Lake",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,1378,7803
-620,Round 1,"Institute of Engineering & Management, Salt Lake",Computer Science & Business System,B.E/B. Tech,All India,Open,3248,7140
 621,Round 1,"Heritage Institute of Technology, Kolkata",Computer Science & Business System,B.E/B. Tech,Home State,SC,9916,9916
-622,Round 1,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Information Technology,B.E/B. Tech,All India,Open,6169,38625
 623,Round 1,"Seacom Engineering College, Sankrail, Howrah",Information Technology,B.E/B. Tech,All India,Open,45177,78697
 624,Round 1,"Camellia School of Engineering & Technology, Barasat",Information Technology,B.E/B. Tech,All India,Open,31663,78442
 625,Round 1,"B.P. Poddar Institute of Management & Technology, Kolkata",Information Technology,B.E/B. Tech,All India,Open,7705,19227
@@ -640,7 +610,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 639,Round 1,"Netaji Subhash Chandra Bose Institute of Pharmacy ,Chakdah, Nadia",B.Pharm/Pharmaceutical Technology (TFW),B. Pharma,Home State,Tuition Fee Waiver,7521,9813
 640,Round 1,"Adamas University, Barasat",Civil Engineering,B.E/B. Tech,All India,Open,29915,51034
 641,Round 1,"Pailan College of Management & Technology, Pailan Park",Civil Engineering,B.E/B. Tech,All India,Open,54116,54116
-642,Round 1,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Civil Engineering,B.E/B. Tech,All India,Open,5114,70844
 643,Round 1,"Guru Nanak Institute of Pharmaceutical Science and Technology, Sodepur",B.Pharm/Pharmaceutical Technology (TFW),B. Pharma,Home State,Tuition Fee Waiver,858,4618
 644,Round 1,"Dr.Sudhir Chandra Sur Institute of Technology and Sports Complex, Dum Dum",Civil Engineering,B.E/B. Tech,All India,Open,52955,60631
 645,Round 1,"Gupta College of Technological Sciences, Asansol, Burdwan",B.Pharm/Pharmaceutical Technology (TFW),B. Pharma,Home State,Tuition Fee Waiver,7110,9324
@@ -748,11 +717,9 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 747,Round 1,Jadavpur University,Civil Engineering,B.E/B. Tech,Home State,SC,4112,7344
 748,Round 1,"Dr. B. C. Roy College of Pharmacy and Allied Health Sciences, Durgapur",B.Pharm/Pharmaceutical Technology (TFW),B. Pharma,Home State,Tuition Fee Waiver,1903,6969
 749,Round 1,Jadavpur University,Civil Engineering,B.E/B. Tech,Home State,Open (PwD),22918,38123
-750,Round 1,"Institute of Engineering & Management, Salt Lake",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,1153,1952
 751,Round 1,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Food Technology,B.E/B. Tech,All India,Open,6198,14715
 752,Round 1,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Food Technology,B.E/B. Tech,Home State,SC,17549,19845
 753,Round 1,"Govt. College of Engineering & Textile Technology, Serampore",Textile Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,9780,11396
-754,Round 1,"Institute of Engineering & Management, Salt Lake",Electrical & Electronics Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,4640,4640
 755,Round 1,"Seacom Skills University, Bolpur",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,23183,25747
 756,Round 1,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Food Technology,B.E/B. Tech,Home State,ST,42939,42939
 757,Round 1,"Narula Institute of Technology, Agarpara, Kolkata",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,8545,11053
@@ -763,7 +730,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 762,Round 1,"Techno International New Town, Rajarhat, New Town",Mechanical Engineering,B.E/B. Tech,All India,Open,36842,75275
 763,Round 1,"Nshm Knowledge Campus, Durgapur Group of Institutions",Computer Science & Engineering,B.E/B. Tech,All India,Open,633,77137
 764,Round 1,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Mechanical Engineering,B.E/B. Tech,Home State,OBC - A,23249,24153
-765,Round 1,"Institute of Engineering & Management, Salt Lake",Mechanical Engineering,B.E/B. Tech,All India,Open,3947,14576
 766,Round 1,"Govt. College of Engineering & Textile Technology, Serampore",Computer Science & Engineering,B.E/B. Tech,Home State,Open,3065,4561
 767,Round 1,"Govt. College of Engineering & Textile Technology, Serampore",Computer Science & Engineering,B.E/B. Tech,Home State,Open (PwD),27532,36724
 768,Round 1,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Mechanical Engineering,B.E/B. Tech,All India,Open,4954,12162
@@ -779,9 +745,7 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 778,Round 1,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Electrical Engineering,B.E/B. Tech,All India,Open,1192,8684
 779,Round 1,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Electrical Engineering,B.E/B. Tech,Home State,OBC - B,11085,11124
 780,Round 1,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Electrical Engineering,B.E/B. Tech,Home State,OBC - A,18377,20911
-781,Round 1,"Institute of Engineering & Management, Salt Lake",Computer Science & Engineering (IOT),B.E/B. Tech,All India,Open,2303,6164
 782,Round 1,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Electrical Engineering,B.E/B. Tech,Home State,ST,51225,60718
-783,Round 1,"Institute of Engineering & Management, Salt Lake",Electrical Engineering,B.E/B. Tech,All India,Open,2724,12271
 784,Round 1,"Seacom Skills University, Bolpur",Electrical Engineering,B.E/B. Tech,All India,Open,30698,30698
 785,Round 1,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Electrical Engineering,B.E/B. Tech,Home State,SC,9574,16790
 786,Round 1,"Guru Nanak Institute of Technology, Panihati, Sodepur",Electrical Engineering,B.E/B. Tech,All India,Open,19767,71884
@@ -795,12 +759,9 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 794,Round 1,"Govt. College of Engg. & Textile Technology, Berhampore",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,2556,3634
 795,Round 1,"Jis College of Engineering, Kalyani, Nadia",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,7713,15625
 796,Round 1,"Govt. College of Engg. & Textile Technology, Berhampore",Textile Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,8009,16120
-797,Round 1,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,9211,11280
 798,Round 1,"Academy of Technology, Adisaptagram, Hooghly",Electrical & Electronics Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,20813,23858
 799,Round 1,"Sanaka Education Trusts Group of Institutions, Durgapur, Burdwan",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,68790,68790
-800,Round 1,"Future Institute of Engineering & Management, Sonarpur",Electronics & Communication Engineering,B.E/B. Tech,Home State,SC,61076,75576
 801,Round 1,"Heritage Institute of Technology, Kolkata",Electronics & Communication Engineering,B.E/B. Tech,Home State,SC,9091,9091
-802,Round 1,"Future Institute of Engineering & Management, Sonarpur",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,12166,59619
 803,Round 1,"Guru Nanak Institute of Technology, Panihati, Sodepur",Electronics & Communication Engineering,B.E/B. Tech,Home State,SC,63526,66616
 804,Round 1,"Guru Nanak Institute of Technology, Panihati, Sodepur",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,22928,61537
 805,Round 1,"Narula Institute of Technology, Agarpara, Kolkata",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,2168,43040
@@ -811,18 +772,13 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 810,Round 1,"Heritage Institute of Technology, Kolkata",Computer Science & Business System,B.E/B. Tech,All India,Open,4671,7091
 811,Round 1,"Narula Institute of Technology, Agarpara, Kolkata",Computer Science & Business System,B.E/B. Tech,All India,Open,1646,40963
 812,Round 1,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Mechanical Engineering,B.E/B. Tech,Home State,SC,17463,19266
-813,Round 1,"Institute of Engineering & Management, Salt Lake",Computer Science & Engineering,B.E/B. Tech,All India,Open,168,2428
 814,Round 1,"Govt. College of Engineering & Textile Technology, Serampore",Computer Science & Engineering,B.E/B. Tech,Home State,SC,7748,10488
 815,Round 1,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Mechanical Engineering,B.E/B. Tech,Home State,ST,61712,66263
 816,Round 1,"Kalyani Goverment Engineering College, Kalyani, Nadia",Computer Science & Engineering,B.E/B. Tech,Home State,SC,1816,4162
 817,Round 1,University Of Calcutta,Computer Science & Engineering,B.E/B. Tech,Home State,SC,2226,2916
-818,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Computer Science & Engineering,B.E/B. Tech,Home State,ST,46374,46374
 819,Round 1,"Birbhum Institute of Engineering & Technology, Suri, Birbhum",Computer Science & Engineering,B.E/B. Tech,All India,Open,2026,59896
 820,Round 1,"Birbhum Institute of Engineering & Technology, Suri, Birbhum",Computer Science & Engineering,B.E/B. Tech,Home State,SC,66089,79975
-821,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Mechanical Engineering,B.E/B. Tech,All India,Open,22898,78880
 822,Round 1,"Birbhum Institute of Engineering & Technology, Suri, Birbhum",Mechanical Engineering,B.E/B. Tech,All India,Open,48188,63777
-823,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Computer Science & Engineering,B.E/B. Tech,Home State,OBC - A,32529,32529
-824,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Computer Science & Engineering,B.E/B. Tech,Home State,SC,15404,28164
 825,Round 1,"Seacom Engineering College, Sankrail, Howrah",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,24190,25724
 826,Round 1,"Camellia School of Engineering & Technology, Barasat",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,23875,24143
 827,Round 1,"Seacom Engineering College, Sankrail, Howrah",Marine Engineering/Marine Technology,B.E/B. Tech,All India,Open,31828,74371
@@ -837,7 +793,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 836,Round 1,"Dr. B. C. Roy Engineering College, Durgapur",Computer Science & Engineering (Data Science) (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,14328,18071
 837,Round 1,"Bankura Unnayani Institute of Engineering, Bankura",Computer Science & Engineering,B.E/B. Tech,Home State,SC,50348,51444
 838,Round 1,"Bankura Unnayani Institute of Engineering, Bankura",Mechanical Engineering,B.E/B. Tech,All India,Open,35573,62126
-839,Round 1,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Computer Science & Engineering,B.E/B. Tech,All India,Open,6135,27678
 840,Round 1,"Bankura Unnayani Institute of Engineering, Bankura",Computer Science & Engineering,B.E/B. Tech,All India,Open,15325,46771
 841,Round 1,"Birbhum Institute of Engineering & Technology, Suri, Birbhum",Computer Science & Engineering,B.E/B. Tech,Home State,OBC - B,61848,71434
 842,Round 1,"Camellia Institute of Technology & Management, Bainchi, Hooghly",Computer Science & Engineering,B.E/B. Tech,All India,Open,41057,79664
@@ -893,7 +848,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 892,Round 1,"Narula Institute of Technology, Agarpara, Kolkata",Computer Science & Technology,B.E/B. Tech,All India,Open,778,27770
 893,Round 1,"Guru Nanak Institute of Technology, Panihati, Sodepur",Electronics And Computer Science (ESC),B.E/B. Tech,Home State,OBC - A,61862,61862
 894,Round 1,"Guru Nanak Institute of Technology, Panihati, Sodepur",Electronics And Computer Science (ESC),B.E/B. Tech,All India,Open,17046,55621
-895,Round 1,"Future Institute of Engineering & Management, Sonarpur",Electrical Engineering,B.E/B. Tech,All India,Open,36759,74565
 896,Round 1,"Heritage Institute of Technology, Kolkata",Electrical Engineering,B.E/B. Tech,Home State,ST,37963,37963
 897,Round 1,"Hooghly Engineering & Technology College, Hooghly",Electrical Engineering,B.E/B. Tech,All India,Open,24683,79337
 898,Round 1,"Heritage Institute of Technology, Kolkata",Electrical Engineering,B.E/B. Tech,All India,Open,3892,12636
@@ -925,7 +879,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 924,Round 1,"Jis College of Engineering, Kalyani, Nadia",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,31420,74072
 925,Round 1,"Supreme Knowledge Foundation Group of Institutions, Mankundu, Hooghly",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,38101,79246
 926,Round 1,"Pailan College of Management & Technology, Pailan Park",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,71746,78515
-927,Round 1,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,9274,69143
 928,Round 1,"Adamas University, Barasat",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,13923,42929
 929,Round 1,"Academy of Technology, Adisaptagram, Hooghly",Computer Science & Business System,B.E/B. Tech,All India,Open,11891,21783
 930,Round 1,"Govt. College of Engineering & Textile Technology, Serampore",Computer Science & Engineering,B.E/B. Tech,Home State,OBC - B,4769,5265
@@ -938,8 +891,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 937,Round 1,"Hooghly Engineering & Technology College, Hooghly",Computer Science & Engineering,B.E/B. Tech,Home State,Open (PwD),70656,70656
 938,Round 1,"Goverment College of Engineering and Leather Technology, Kolkata",Computer Science & Engineering,B.E/B. Tech,Home State,OBC - A (PwD),51106,51106
 939,Round 1,"Sanaka Education Trusts Group of Institutions, Durgapur, Burdwan",Computer Science & Engineering,B.E/B. Tech,All India,Open,15713,56178
-940,Round 1,"Future Institute of Engineering & Management, Sonarpur",Mechanical Engineering,B.E/B. Tech,All India,Open,23613,61277
-941,Round 1,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering,B.E/B. Tech,All India,Open,1527,23300
 942,Round 1,"Guru Nanak Institute of Technology, Panihati, Sodepur",Computer Science & Engineering,B.E/B. Tech,All India,Open,676,22336
 943,Round 1,"Goverment College of Engineering and Leather Technology, Kolkata",Computer Science & Engineering,B.E/B. Tech,Home State,OBC - A,5669,8039
 944,Round 1,"Heritage Institute of Technology, Kolkata",Computer Science & Engineering,B.E/B. Tech,All India,Open,360,3318
@@ -954,7 +905,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 953,Round 1,"Govt. College of Engg. & Textile Technology, Berhampore",Computer Science & Engineering,B.E/B. Tech,Home State,OBC - A,7066,12563
 954,Round 1,"Jis College of Engineering, Kalyani, Nadia",Biomedical Engineering,B.E/B. Tech,All India,Open,13428,51084
 955,Round 1,"Govt. College of Engg. & Textile Technology, Berhampore",Electrical Engineering,B.E/B. Tech,Home State,OBC - A,16248,17539
-956,Round 1,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Electrical Engineering,B.E/B. Tech,All India,Open,4200,79754
 957,Round 1,"Adamas University, Barasat",Electrical Engineering,B.E/B. Tech,All India,Open,13639,65342
 958,Round 1,"Academy of Technology, Adisaptagram, Hooghly",Electrical Engineering,B.E/B. Tech,All India,Open,12475,42526
 959,Round 1,"Modern Institute of Engineering & Technology, Bandel, Hooghly",Electrical Engineering,B.E/B. Tech,All India,Open,72921,72921
@@ -1030,7 +980,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 1029,Round 1,"Pailan College of Management & Technology, Pailan Park",Computer Science & Engineering,B.E/B. Tech,Home State,SC,72986,72986
 1030,Round 1,"Elitte College of Engineering,Mahispota, Sodepur",Mechanical Engineering,B.E/B. Tech,All India,Open,26015,26015
 1031,Round 1,"Adamas University, Barasat",Computer Science & Engineering,B.E/B. Tech,All India,Open,9677,30813
-1032,Round 1,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Computer Science & Engineering,B.E/B. Tech,All India,Open,2848,19722
 1033,Round 1,"Swami Vivekananda Institute of Science & Technology, Sonarpur",Mechanical Engineering,B.E/B. Tech,All India,Open,72905,72905
 1034,Round 1,"Academy of Technology, Adisaptagram, Hooghly",Mechanical Engineering,B.E/B. Tech,All India,Open,24134,65184
 1035,Round 1,"Academy of Technology, Adisaptagram, Hooghly",Computer Science & Engineering,B.E/B. Tech,All India,Open,909,11712
@@ -1094,7 +1043,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 1093,Round 1,"Ramkrishna Mahato Government Engineering College, Purulia",Mechanical Engineering,B.E/B. Tech,Home State,OBC - A,16894,23896
 1094,Round 1,"Jis University, Agarpara",Computer Science & Engineering,B.E/B. Tech,All India,Open,1163,56977
 1095,Round 1,"Camellia Institute of Technology, Badu Road, Madhyamgram",Computer Science & Engineering,B.E/B. Tech,All India,Open,23162,73841
-1096,Round 1,"Kanad Institute of Engineering & Management, Mankar, Burdwan",Computer Science & Engineering,B.E/B. Tech,All India,Open,24156,78088
 1097,Round 1,"Govt. College of Engineering & Ceramic Technology, Kolkata",Computer Science & Engineering,B.E/B. Tech,Home State,Open,1200,2918
 1098,Round 1,Jadavpur University,Production Engineering,B.E/B. Tech,Home State,OBC - B,1124,1463
 1099,Round 1,"Ramkrishna Mahato Government Engineering College, Purulia",Electronics & Communication Engineering,B.E/B. Tech,Home State,SC,12252,14659
@@ -1225,8 +1173,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 1224,Round 1,"Budge Budge Institute of Technology, Budge-Budge",Computer Science & Engineering (Cyber Security) (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,16110,16110
 1225,Round 1,"Haldia Institute of Technology, Haldia, Purba Medinipur",Agricultural Engineering,B.E/B. Tech,All India,Open,20699,60881
 1226,Round 1,Swami Vivekananda University,Agricultural Engineering,B.E/B. Tech,All India,Open,18010,75873
-1227,Round 1,"Institute of Engineering & Management, Salt Lake",Computer Science & Engineering (Internet Of Things And Cyber Security Including Block Chain Technology) (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,4134,4765
-1228,Round 1,"Institute of Engineering & Management, Salt Lake",Computer Science & Engineering (IOT) - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,3655,5010
 1229,Round 1,"Narula Institute of Technology, Agarpara, Kolkata",Electronics And Instrumentation Engineering,B.E/B. Tech,All India,Open,25214,70846
 1230,Round 1,University Of Calcutta,Electronics & Communication Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,1158,1158
 1231,Round 1,"Mckv Institute of Engineering, Liluah, Howrah",Electronics & Communication Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,14337,21386
@@ -1255,7 +1201,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 1254,Round 1,"Budge Budge Institute of Technology, Budge-Budge",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E/B. Tech,Home State,SC,63525,69646
 1255,Round 1,"Budge Budge Institute of Technology, Budge-Budge",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E/B. Tech,Home State,OBC - B,59543,71507
 1256,Round 1,"St. Mary's Technical Campus Kolkata, Barasat",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E/B. Tech,All India,Open,18064,78472
-1257,Round 1,"Institute of Engineering & Management, Salt Lake",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E/B. Tech,All India,Open,978,3530
 1258,Round 1,"Govt. College of Engineering & Textile Technology, Serampore",Textile Technology,B.E/B. Tech,Home State,SC,14845,21726
 1259,Round 1,"Govt. College of Engineering & Textile Technology, Serampore",Textile Technology,B.E/B. Tech,Home State,ST,43819,71655
 1260,Round 1,"Govt. College of Engineering & Textile Technology, Serampore",Textile Technology,B.E/B. Tech,Home State,Open,6404,14800
@@ -1266,7 +1211,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 1265,Round 1,"Narula Institute of Technology, Agarpara, Kolkata",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E/B. Tech,All India,Open,243,30491
 1266,Round 1,"Heritage Institute of Technology, Kolkata",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,1894,2883
 1267,Round 1,University Of Calcutta,Jute & Fibre Technology,B.E/B. Tech,Home State,ST,54067,75231
-1268,Round 2,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Civil Engineering,B.E/B. Tech,All India,Open,30424,78864
 1269,Round 2,"Birbhum Institute of Engineering & Technology, Suri, Birbhum",Civil Engineering,B.E/B. Tech,All India,Open,34305,34305
 1270,Round 2,"Institute of Pharmacy, Jalpaiguri",B.Pharm/Pharmaceutical Technology (TFW),B. Pharma,Home State,Tuition Fee Waiver,1265,2333
 1271,Round 2,"Bharat Technology, Uluberia, Howrah",B.Pharm/Pharmaceutical Technology (TFW),B. Pharma,Home State,Tuition Fee Waiver,6228,11173
@@ -1332,7 +1276,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 1331,Round 2,"Nshm Knowledge Campus, Kolkata Group of Institutions, Kolkata",B.Pharm/Pharmaceutical Technology (TFW),B. Pharma,Home State,Tuition Fee Waiver,1273,7137
 1332,Round 2,"Birbhum Institute of Engineering & Technology, Suri, Birbhum",Electrical Engineering,B.E/B. Tech,All India,Open,57398,57398
 1333,Round 2,"Bankura Unnayani Institute of Engineering, Bankura",Electrical Engineering,B.E/B. Tech,All India,Open,38398,78699
-1334,Round 2,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Electrical Engineering,B.E/B. Tech,All India,Open,28149,46640
 1335,Round 2,"B.P. Poddar Institute of Management & Technology, Kolkata",Electrical Engineering,B.E/B. Tech,All India,Open,2597,78954
 1336,Round 2,"College of Engineering and Management, Kolaghat",Electrical Engineering,B.E/B. Tech,All India,Open,26366,71773
 1337,Round 2,"Aliah University, New Town",Electrical Engineering,B.E/B. Tech,Home State,Open,8714,14802
@@ -1356,11 +1299,8 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 1355,Round 2,"Haldia Institute of Technology, Haldia, Purba Medinipur",Information Technology,B.E/B. Tech,All India,Open,1458,18782
 1356,Round 2,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Information Technology,B.E/B. Tech,Home State,SC,7063,8025
 1357,Round 2,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Information Technology,B.E/B. Tech,Home State,ST,25834,32803
-1358,Round 2,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Mechanical Engineering,B.E/B. Tech,All India,Open,52558,52558
 1359,Round 2,"Birbhum Institute of Engineering & Technology, Suri, Birbhum",Mechanical Engineering,B.E/B. Tech,All India,Open,63777,63777
-1360,Round 2,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Computer Science & Engineering,B.E/B. Tech,All India,Open,12930,76246
 1361,Round 2,"Bankura Unnayani Institute of Engineering, Bankura",Computer Science & Engineering,B.E/B. Tech,All India,Open,15325,75979
-1362,Round 2,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Computer Science & Engineering,B.E/B. Tech,Home State,SC,76898,79083
 1363,Round 2,"Bankura Unnayani Institute of Engineering, Bankura",Computer Science & Engineering,B.E/B. Tech,Home State,SC,77683,78759
 1364,Round 2,"Bankura Unnayani Institute of Engineering, Bankura",Mechanical Engineering,B.E/B. Tech,All India,Open,45248,54879
 1365,Round 2,"Birbhum Institute of Engineering & Technology, Suri, Birbhum",Computer Science & Engineering,B.E/B. Tech,All India,Open,33864,79975
@@ -1381,7 +1321,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 1380,Round 2,"Dr. B. C. Roy Engineering College, Durgapur",Electronics & Communication Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,8571,24717
 1381,Round 2,"Asansol Engineering College, Asansol, Burdwan",Electronics & Communication Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,16344,27780
 1382,Round 2,Jadavpur University,Electronics & Tele-Communication Engineering,B.E/B. Tech,All India,Open,39,93
-1383,Round 2,"Institute of Engineering & Management, Salt Lake",Electronics & Communication Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,4156,7077
 1384,Round 2,Jadavpur University,Civil Engineering,B.E/B. Tech,Home State,Open,592,1760
 1385,Round 2,Jadavpur University,Civil Engineering,B.E/B. Tech,Home State,ST,18837,28748
 1386,Round 2,"Asansol Engineering College, Asansol, Burdwan",Civil Engineering,B.E/B. Tech,All India,Open,25262,74561
@@ -1420,7 +1359,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 1419,Round 2,"Govt. College of Engineering & Textile Technology, Serampore",Information Technology,B.E/B. Tech,Home State,OBC - A,11896,16248
 1420,Round 2,"Govt. College of Engineering & Textile Technology, Serampore",Information Technology,B.E/B. Tech,Home State,Open,4611,7904
 1421,Round 2,"Govt. College of Engineering & Textile Technology, Serampore",Apparel & Production Management,B.E/B. Tech,Home State,Open,13224,29945
-1422,Round 2,"Institute of Engineering & Management, Salt Lake",Information Technology,B.E/B. Tech,All India,Open,1207,5726
 1423,Round 2,Jadavpur University,Metallurgical Engineering,B.E/B. Tech,Home State,Open,1041,1475
 1424,Round 2,Jadavpur University,Metallurgical Engineering,B.E/B. Tech,Home State,Open (PwD),41122,41122
 1425,Round 2,Jadavpur University,Metallurgical Engineering,B.E/B. Tech,Home State,SC,6853,7949
@@ -1429,10 +1367,8 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 1428,Round 2,Jadavpur University,Metallurgical Engineering,B.E/B. Tech,Home State,OBC - A,5423,7340
 1429,Round 2,Jadavpur University,Metallurgical Engineering,B.E/B. Tech,Home State,OBC - B,2554,2761
 1430,Round 2,Jadavpur University,Metallurgical Engineering,B.E/B. Tech,Home State,ST,17828,23100
-1431,Round 2,"Institute of Engineering & Management, Salt Lake",Computer Science & Engineering (Artificial Intelligence),B.E/B. Tech,All India,Open,2110,7078
 1432,Round 2,University Of Calcutta,Jute & Fibre Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,6123,8145
 1433,Round 2,"Bankura Unnayani Institute of Engineering, Bankura",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,18868,33880
-1434,Round 2,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,17832,23183
 1435,Round 2,Jadavpur University,Power Engineering,B.E/B. Tech,Home State,SC,4183,7550
 1436,Round 2,"Dr.Sudhir Chandra Sur Institute of Technology and Sports Complex, Dum Dum",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,15051,25062
 1437,Round 2,"Sister Nivedita University, New Town",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,12649,28566
@@ -1463,13 +1399,11 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 1462,Round 2,"Kaji Nazrul University, Asansol",Metallurgical And Materials Engineering,B.E/B. Tech,Home State,OBC - B,28897,29606
 1463,Round 2,"Academy of Technology, Adisaptagram, Hooghly",Electronics & Communication Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,7582,14370
 1464,Round 2,"Heritage Institute of Technology, Kolkata",Chemical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,8172,20604
-1465,Round 2,"Future Institute of Engineering & Management, Sonarpur",Electronics & Communication Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,20792,31154
 1466,Round 2,"Guru Nanak Institute of Technology, Panihati, Sodepur",Electronics & Communication Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,23724,31205
 1467,Round 2,"Heritage Institute of Technology, Kolkata",Electronics & Communication Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,4996,8394
 1468,Round 2,"Narula Institute of Technology, Agarpara, Kolkata",Electronics & Communication Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,15302,23074
 1469,Round 2,"Hooghly Engineering & Technology College, Hooghly",Electronics & Communication Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,26061,27501
 1470,Round 2,"University Institute of Technology, Burdwan (Self Financing Course)",Electronics & Communication Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,8514,13611
-1471,Round 2,"Abacus Institute of Engineering & Management, Mogra, Hooghly",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,44634,59868
 1472,Round 2,"Dr.Sudhir Chandra Sur Institute of Technology and Sports Complex, Dum Dum",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,79608,79608
 1473,Round 2,"B.P. Poddar Institute of Management & Technology, Kolkata",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,10856,57110
 1474,Round 2,Techno International Batanagar,Electronics & Communication Engineering,B.E/B. Tech,All India,Open,59675,59675
@@ -1506,7 +1440,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 1505,Round 2,"University Institute of Technology, Burdwan (Self Financing Course)",Civil Engineering,B.E/B. Tech,All India,Open,16048,34008
 1506,Round 2,"Imps College of Engineering & Technology, Malda",Civil Engineering,B.E/B. Tech,All India,Open,47958,47958
 1507,Round 2,"Pailan College of Management & Technology, Pailan Park",Civil Engineering,B.E/B. Tech,All India,Open,54116,54116
-1508,Round 2,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Civil Engineering,B.E/B. Tech,All India,Open,5114,57609
 1509,Round 2,"Netaji Subhash Chandra Bose Institute of Pharmacy ,Chakdah, Nadia",B.Pharm/Pharmaceutical Technology (TFW),B. Pharma,Home State,Tuition Fee Waiver,8547,11695
 1510,Round 2,"Govt. College of Engineering & Textile Technology, Serampore",Information Technology,B.E/B. Tech,Home State,OBC - B,7938,8371
 1511,Round 2,"Govt. College of Engineering & Textile Technology, Serampore",Information Technology,B.E/B. Tech,Home State,ST,49041,56735
@@ -1519,7 +1452,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 1518,Round 2,"Goverment College of Engineering and Leather Technology, Kolkata",Information Technology,B.E/B. Tech,Home State,SC,10806,14263
 1519,Round 2,"Goverment College of Engineering and Leather Technology, Kolkata",Information Technology,B.E/B. Tech,Home State,ST,12306,36634
 1520,Round 2,"Heritage Institute of Technology, Kolkata",Information Technology,B.E/B. Tech,Home State,ST,29635,29635
-1521,Round 2,"Future Institute of Engineering & Management, Sonarpur",Information Technology,B.E/B. Tech,Home State,SC,55914,63069
 1522,Round 2,"Heritage Institute of Technology, Kolkata",Information Technology,B.E/B. Tech,Home State,SC,8487,8487
 1523,Round 2,"Dr.Sudhir Chandra Sur Institute of Technology and Sports Complex, Dum Dum",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E/B. Tech,All India,Open,17251,78845
 1524,Round 2,"Sister Nivedita University, New Town",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E/B. Tech,All India,Open,30573,77372
@@ -1683,11 +1615,9 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 1682,Round 2,"Guru Nanak Institute of Technology, Panihati, Sodepur",Information Technology,B.E/B. Tech,All India,Open,1891,48931
 1683,Round 2,"Narula Institute of Technology, Agarpara, Kolkata",Information Technology,B.E/B. Tech,All India,Open,1316,32982
 1684,Round 2,"Seacom Engineering College, Sankrail, Howrah",Information Technology,B.E/B. Tech,All India,Open,45177,45177
-1685,Round 2,"Future Institute of Engineering & Management, Sonarpur",Information Technology,B.E/B. Tech,All India,Open,24782,52133
 1686,Round 2,"University Institute of Technology, Burdwan (Self Financing Course)",Information Technology,B.E/B. Tech,Home State,SC,17744,23263
 1687,Round 2,"Techno Engineering Collge Banipur, 24 Parganas-North",Information Technology,B.E/B. Tech,All India,Open,66298,73061
 1688,Round 2,"University Institute of Technology, Burdwan (Self Financing Course)",Information Technology,B.E/B. Tech,All India,Open,7169,12932
-1689,Round 2,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Information Technology,B.E/B. Tech,All India,Open,27273,79998
 1690,Round 2,"Maulana Abul Kalam Azad University of Technology, West Bengal",Information Technology,B.E/B. Tech,Home State,SC,9690,12090
 1691,Round 2,"Govt. College of Engg. & Textile Technology, Berhampore",Textile Technology,B.E/B. Tech,Home State,OBC - B,25416,28412
 1692,Round 2,"Govt. College of Engg. & Textile Technology, Berhampore",Textile Technology,B.E/B. Tech,Home State,Open (PwD),41258,41258
@@ -1778,7 +1708,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 1777,Round 2,Jadavpur University,Construction Engineering,B.E/B. Tech,Home State,Open,1477,2234
 1778,Round 2,"Seacom Skills University, Bolpur",Civil Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,41436,68742
 1779,Round 2,Jadavpur University,Instrumentation & Electronics,B.E/B. Tech,Home State,SC,1841,3040
-1780,Round 2,"Institute of Engineering & Management, Salt Lake",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E/B. Tech,All India,Open,1178,5535
 1781,Round 2,"Govt. College of Engineering & Textile Technology, Serampore",Textile Technology,B.E/B. Tech,Home State,OBC - A,25912,41286
 1782,Round 2,"Govt. College of Engineering & Textile Technology, Serampore",Textile Technology,B.E/B. Tech,Home State,OBC - B,25257,28014
 1783,Round 2,University Of Calcutta,Polymer Science & Technology,B.E/B. Tech,Home State,SC,12779,16931
@@ -1817,7 +1746,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 1816,Round 2,"Dr. B. C. Roy Engineering College, Durgapur",Information Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,12995,14328
 1817,Round 2,"Kaji Nazrul University, Asansol",Mining Engineering,B.E/B. Tech,Home State,SC,26884,45129
 1818,Round 2,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Electrical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,11460,16398
-1819,Round 2,"Institute of Engineering & Management, Salt Lake",Information Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,2457,4188
 1820,Round 2,"Seacom Skills University, Bolpur",Electrical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,55510,68985
 1821,Round 2,"Govt. College of Engineering & Ceramic Technology, Kolkata",Computer Science & Engineering,B.E/B. Tech,Home State,ST,30451,34969
 1822,Round 2,"Sister Nivedita University, New Town",Computer Science & Engineering,B.E/B. Tech,All India,Open,10165,79862
@@ -1860,8 +1788,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 1859,Round 2,"University of Kalyani, Science Instrumentation Centre",Electronics And Instrumentation Engineering,B.E/B. Tech,All India,Open,1096,7596
 1860,Round 2,"Asansol Engineering College, Asansol, Burdwan",Computer Science & Engineering (Internet Of Things And Cyber Security Including Block Chain Technology) (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,28826,30504
 1861,Round 2,Jadavpur University,Construction Engineering,B.E/B. Tech,Home State,OBC - A,5810,9250
-1862,Round 2,"Institute of Engineering & Management, Salt Lake",Computer Science & Engineering (Internet Of Things And Cyber Security Including Block Chain Technology) (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,4134,5718
-1863,Round 2,"Institute of Engineering & Management, Salt Lake",Computer Science & Engineering (IOT) - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,3655,5010
 1864,Round 2,"Bidhan Chandra Krishi Viswa Vidyalaya, Mohanpur, Nadia",Agricultural Engineering,B.E/B. Tech,Home State,OBC - A,13002,19087
 1865,Round 2,"Bidhan Chandra Krishi Viswa Vidyalaya, Mohanpur, Nadia",Agricultural Engineering,B.E/B. Tech,Home State,SC,10457,17113
 1866,Round 2,"Bidhan Chandra Krishi Viswa Vidyalaya, Mohanpur, Nadia",Agricultural Engineering,B.E/B. Tech,All India,Open,3418,8660
@@ -1900,8 +1826,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 1899,Round 2,"Rcc Institute of Information Technology, Kolkata",Electronics & Communication Engineering,B.E/B. Tech,Home State,SC,48420,77398
 1900,Round 2,"Jalpaiguri Goverment Engineering College,Jalpaiguri",Electronics & Communication Engineering,B.E/B. Tech,Home State,SC,8327,10286
 1901,Round 2,Jadavpur University,Production Engineering,B.E/B. Tech,Home State,ST,14578,22740
-1902,Round 2,"Institute of Engineering & Management, Salt Lake",Computer Science & Business System,B.E/B. Tech,All India,Open,3790,12012
-1903,Round 2,"Institute of Engineering & Management, Salt Lake",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,2276,12294
 1904,Round 2,"Academy of Technology, Adisaptagram, Hooghly",Computer Science & Business System,B.E/B. Tech,All India,Open,12147,29779
 1905,Round 2,"Swami Vivekananda Institute of Science & Technology, Sonarpur",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,36683,64447
 1906,Round 2,"Academy of Technology, Adisaptagram, Hooghly",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,1724,36764
@@ -1922,20 +1846,15 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 1921,Round 2,"Meghnad Saha Institute of Technology, Kolkata",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,8316,12048
 1922,Round 2,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Food Technology,B.E/B. Tech,Home State,OBC - A,31075,35522
 1923,Round 2,"Govt. College of Engineering & Textile Technology, Serampore",Textile Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,9780,11396
-1924,Round 2,"Institute of Engineering & Management, Salt Lake",Electrical & Electronics Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,11828,11828
 1925,Round 2,"Seacom Skills University, Bolpur",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,30941,39464
 1926,Round 2,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Food Technology,B.E/B. Tech,Home State,SC,24303,29692
 1927,Round 2,"Govt. College of Engineering & Textile Technology, Serampore",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,3500,3927
-1928,Round 2,"Institute of Engineering & Management, Salt Lake",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,1153,2902
 1929,Round 2,Jadavpur University,Electrical Engineering,B.E/B. Tech,All India,Open,83,187
-1930,Round 2,"Institute of Engineering & Management, Salt Lake",Computer Science & Engineering (IOT),B.E/B. Tech,All India,Open,4223,9892
 1931,Round 2,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Electrical Engineering,B.E/B. Tech,Home State,OBC - A,20911,30714
 1932,Round 2,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Electrical Engineering,B.E/B. Tech,Home State,SC,16790,23187
-1933,Round 2,"Institute of Engineering & Management, Salt Lake",Electrical Engineering,B.E/B. Tech,All India,Open,2724,22339
 1934,Round 2,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Electrical Engineering,B.E/B. Tech,All India,Open,8513,14668
 1935,Round 2,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Electrical Engineering,B.E/B. Tech,Home State,OBC - B,16168,16455
 1936,Round 2,"Academy of Technology, Adisaptagram, Hooghly",Electrical Engineering,B.E/B. Tech,All India,Open,26536,65184
-1937,Round 2,"Future Institute of Engineering & Management, Sonarpur",Electrical Engineering,B.E/B. Tech,All India,Open,48593,57641
 1938,Round 2,"Heritage Institute of Technology, Kolkata",Electrical Engineering,B.E/B. Tech,Home State,ST,37963,37963
 1939,Round 2,"Heritage Institute of Technology, Kolkata",Electrical Engineering,B.E/B. Tech,Home State,SC,28035,28035
 1940,Round 2,"Heritage Institute of Technology, Kolkata",Electrical Engineering,B.E/B. Tech,All India,Open,7026,26128
@@ -1949,12 +1868,10 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 1948,Round 2,"Bengal Institute of Technology, Dhapa, Kolkata",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,40950,66239
 1949,Round 2,"Heritage Institute of Technology, Kolkata",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,2079,13626
 1950,Round 2,"Heritage Institute of Technology, Kolkata",Computer Science & Business System,B.E/B. Tech,Home State,SC,13896,13896
-1951,Round 2,"Future Institute of Engineering & Management, Sonarpur",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,20806,76573
 1952,Round 2,"Mallabhum Institute of Technology, Bishnupur, Bankura",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,49616,77847
 1953,Round 2,"University Institute of Technology, Burdwan (Self Financing Course)",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,8454,20267
 1954,Round 2,Jadavpur University,Mechanical Engineering,B.E/B. Tech,Home State,Open,430,737
 1955,Round 2,"University Institute of Technology, Burdwan (Self Financing Course)",Electronics & Communication Engineering,B.E/B. Tech,Home State,SC,20829,28689
-1956,Round 2,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Electronics & Communication Engineering,B.E/B. Tech,All India,Open,9274,79673
 1957,Round 2,"Techno Engineering Collge Banipur, 24 Parganas-North",Computer Science & Engineering (Artificial Intelligence And Machine Learning),B.E/B. Tech,All India,Open,67433,67433
 1958,Round 2,"University Institute of Technology, Burdwan (Self Financing Course)",Civil Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,16801,27469
 1959,Round 2,"Cooch Behar Government Engineering College, Cooch Behar",Civil Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,11306,14022
@@ -1965,7 +1882,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 1964,Round 2,"Govt. College of Engineering & Textile Technology, Serampore",Information Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,5352,7367
 1965,Round 2,"Kaji Nazrul University, Asansol",Mining Engineering,B.E/B. Tech,Home State,OBC - B,25915,28520
 1966,Round 2,"Kaji Nazrul University, Asansol",Mining Engineering,B.E/B. Tech,All India,Open,2238,21802
-1967,Round 2,"Institute of Engineering & Management, Salt Lake",Electrical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,6601,8499
 1968,Round 2,"Seacom Engineering College, Sankrail, Howrah",Electrical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,45068,52013
 1969,Round 2,"Academy of Technology, Adisaptagram, Hooghly",Electrical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,15157,25161
 1970,Round 2,"Bengal Institute of Technology, Dhapa, Kolkata",Information Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,22091,29354
@@ -1977,9 +1893,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 1976,Round 2,West Bengal University of Animal & Fishery Sciences,Dairy Technology,B.E/B. Tech,Home State,ST,64770,79733
 1977,Round 2,West Bengal University of Animal & Fishery Sciences,Dairy Technology,B.E/B. Tech,Home State,OBC - A,19186,23477
 1978,Round 2,Jadavpur University,Production Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,1109,1342
-1979,Round 2,"Institute of Engineering & Management, Salt Lake",Electrical & Electronics Engineering,B.E/B. Tech,All India,Open,6081,18215
-1980,Round 2,"Institute of Engineering & Management, Salt Lake",Computer Science & Business System (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,5848,7194
-1981,Round 2,"Institute of Engineering & Management, Salt Lake",Computer Science & Engineering (Artificial Intelligence) (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,4881,5326
 1982,Round 2,"Swami Vivekananda Institute of Science & Technology, Sonarpur",Electrical & Electronics Engineering,B.E/B. Tech,All India,Open,34021,34021
 1983,Round 2,"Academy of Technology, Adisaptagram, Hooghly",Computer Science & Business System (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,10040,11805
 1984,Round 2,"Academy of Technology, Adisaptagram, Hooghly",Electrical & Electronics Engineering,B.E/B. Tech,All India,Open,12322,69924
@@ -2047,7 +1960,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 2046,Round 2,"Hooghly Engineering & Technology College, Hooghly",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,11848,18957
 2047,Round 2,"Guru Nanak Institute of Technology, Panihati, Sodepur",Electronics And Computer Science (ESC) - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,31169,31169
 2048,Round 2,"Bengal Institute of Technology, Dhapa, Kolkata",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,10591,21329
-2049,Round 2,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,11824,16065
 2050,Round 2,"Goverment College of Engineering and Leather Technology, Kolkata",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,2059,3721
 2051,Round 2,"Goverment College of Engineering and Leather Technology, Kolkata",Leather Technology,B.E/B. Tech,Home State,OBC - B,20813,23563
 2052,Round 2,"Heritage Institute of Technology, Kolkata",Applied Electronics And Instrumentation Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,12110,15221
@@ -2069,12 +1981,10 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 2068,Round 2,"Netaji Subhas Engineering College, Garia, Kolkata",Computer Science & Engineering,B.E/B. Tech,All India,Open,4994,12100
 2069,Round 2,"Heritage Institute of Technology, Kolkata",Information Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,2961,3124
 2070,Round 2,"Narula Institute of Technology, Agarpara, Kolkata",Information Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,11425,17274
-2071,Round 2,"Future Institute of Engineering & Management, Sonarpur",Information Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,10440,22868
 2072,Round 2,"Guru Nanak Institute of Technology, Panihati, Sodepur",Information Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,16908,19273
 2073,Round 2,"Goverment College of Engineering and Leather Technology, Kolkata",Leather Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,13793,13793
 2074,Round 2,"University Institute of Technology, Burdwan (Self Financing Course)",Information Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,2455,8706
 2075,Round 2,"University Institute of Technology, Burdwan (Self Financing Course)",Electrical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,5833,12519
-2076,Round 2,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Information Technology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,21512,24710
 2077,Round 2,"Cooch Behar Government Engineering College, Cooch Behar",Electrical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,8979,11471
 2078,Round 2,"St. Thomas College of Engineering & Technology, Khidirpur, Kolkata",Electrical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,23388,31564
 2079,Round 2,"Kalyani Goverment Engineering College, Kalyani, Nadia",Electrical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,2512,2754
@@ -2093,7 +2003,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 2092,Round 2,"Jis College of Engineering, Kalyani, Nadia",Computer Science & Technology - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,21762,29934
 2093,Round 2,"Govt. College of Engg. & Textile Technology, Berhampore",Computer Science & Engineering,B.E/B. Tech,Home State,OBC - A,10641,13208
 2094,Round 2,"Goverment College of Engineering and Leather Technology, Kolkata",Leather Technology,B.E/B. Tech,Home State,OBC - A,31884,40526
-2095,Round 2,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering (Data Science) (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,17025,24601
 2096,Round 2,"Heritage Institute of Technology, Kolkata",Computer Science & Engineering (Data Science) (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,4011,6597
 2097,Round 2,"Goverment College of Engineering and Leather Technology, Kolkata",Leather Technology,B.E/B. Tech,Home State,SC,25150,29112
 2098,Round 2,"Camellia School of Engineering & Technology, Barasat",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,24143,29311
@@ -2110,10 +2019,7 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 2109,Round 2,"Goverment College of Engineering and Leather Technology, Kolkata",Computer Science & Engineering,B.E/B. Tech,Home State,OBC - B,4719,5218
 2110,Round 2,"Sanaka Education Trusts Group of Institutions, Durgapur, Burdwan",Computer Science & Engineering,B.E/B. Tech,All India,Open,17285,75606
 2111,Round 2,"Bengal Institute of Technology, Dhapa, Kolkata",Computer Science & Engineering,B.E/B. Tech,All India,Open,15259,64412
-2112,Round 2,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering,B.E/B. Tech,Home State,SC,41898,54537
 2113,Round 2,"Narula Institute of Technology, Agarpara, Kolkata",Electronics And Instrumentation Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,26937,26937
-2114,Round 2,"Future Institute of Engineering & Management, Sonarpur",Mechanical Engineering,B.E/B. Tech,All India,Open,30124,30124
-2115,Round 2,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering,B.E/B. Tech,All India,Open,1527,34464
 2116,Round 2,"Guru Nanak Institute of Technology, Panihati, Sodepur",Computer Science & Engineering,B.E/B. Tech,All India,Open,676,31755
 2117,Round 2,"Goverment College of Engineering and Leather Technology, Kolkata",Computer Science & Engineering,B.E/B. Tech,Home State,OBC - A (PwD),51106,51106
 2118,Round 2,Jadavpur University,Chemical Engineering,B.E/B. Tech,Home State,SC,2956,5684
@@ -2124,8 +2030,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 2123,Round 2,Jadavpur University,Chemical Engineering,B.E/B. Tech,Home State,Open,573,1111
 2124,Round 2,Jadavpur University,Chemical Engineering,B.E/B. Tech,Home State,SC (PwD),58853,58853
 2125,Round 2,Jadavpur University,Chemical Engineering,B.E/B. Tech,Home State,Open (PwD),11806,16796
-2126,Round 2,"Institute of Engineering & Management, Salt Lake",Computer Science & Engineering (Internet Of Things And Cyber Security Including Block Chain Technology),B.E/B. Tech,All India,Open,2454,8306
-2127,Round 2,"Institute of Engineering & Management, Salt Lake",Mechanical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,14373,14373
 2128,Round 2,"Seacom Skills University, Bolpur",Mechanical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,42662,50901
 2129,Round 2,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Mechanical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,16232,17959
 2130,Round 2,"Seacom Engineering College, Sankrail, Howrah",Mechanical Engineering (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,16898,47978
@@ -2188,10 +2092,8 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 2187,Round 2,"Govt. College of Engineering & Textile Technology, Serampore",Computer Science & Engineering,B.E/B. Tech,Home State,OBC - A,8781,14865
 2188,Round 2,"Govt. College of Engineering & Textile Technology, Serampore",Computer Science & Engineering,B.E/B. Tech,Home State,ST,30372,50430
 2189,Round 2,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Mechanical Engineering,B.E/B. Tech,Home State,SC,24385,26837
-2190,Round 2,"Institute of Engineering & Management, Salt Lake",Computer Science & Engineering,B.E/B. Tech,All India,Open,215,3621
 2191,Round 2,"Govt. College of Engineering & Textile Technology, Serampore",Computer Science & Engineering,B.E/B. Tech,Home State,SC,9577,12426
 2192,Round 2,"Ghani Khan Choudhury Institute of Engineering & Technology, Malda",Mechanical Engineering,B.E/B. Tech,Home State,OBC - A,36727,39292
-2193,Round 2,"Institute of Engineering & Management, Salt Lake",Mechanical Engineering,B.E/B. Tech,All India,Open,12666,31027
 2194,Round 2,"Narula Institute of Technology, Agarpara, Kolkata",Electrical Engineering,B.E/B. Tech,All India,Open,27817,59106
 2195,Round 2,"Narula Institute of Technology, Agarpara, Kolkata",Computer Science & Technology,B.E/B. Tech,All India,Open,778,41935
 2196,Round 2,"Hooghly Engineering & Technology College, Hooghly",Electrical Engineering,B.E/B. Tech,All India,Open,42791,79337
@@ -2201,7 +2103,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 2200,Round 2,"Imps College of Engineering & Technology, Malda",Electrical Engineering,B.E/B. Tech,All India,Open,33090,33090
 2201,Round 2,"University Institute of Technology, Burdwan (Self Financing Course)",Electrical Engineering,B.E/B. Tech,All India,Open,13593,25208
 2202,Round 2,"Adamas University, Barasat",Electrical Engineering,B.E/B. Tech,All India,Open,48019,48019
-2203,Round 2,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Electrical Engineering,B.E/B. Tech,All India,Open,62555,69056
 2204,Round 2,"Cooch Behar Government Engineering College, Cooch Behar",Electrical Engineering,B.E/B. Tech,Home State,OBC - A,15938,26467
 2205,Round 2,"Cooch Behar Government Engineering College, Cooch Behar",Electrical Engineering,B.E/B. Tech,Home State,OBC - B,14787,15501
 2206,Round 2,"Murshidabad College of Engineering & Technology, Murshidabad",Electrical Engineering,B.E/B. Tech,All India,Open,47007,47007
@@ -2233,7 +2134,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 2232,Round 2,"Guru Nanak Institute of Technology, Panihati, Sodepur",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,9365,16841
 2233,Round 2,"Techno Engineering Collge Banipur, 24 Parganas-North",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,19097,26750
 2234,Round 2,"University Institute of Technology, Burdwan (Self Financing Course)",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,1973,7957
-2235,Round 2,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,9211,14893
 2236,Round 2,"Cooch Behar Government Engineering College, Cooch Behar",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,4650,5309
 2237,Round 2,"Murshidabad College of Engineering & Technology, Murshidabad",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,16809,20223
 2238,Round 2,"Future Institute of Technology, Boral, Garia",Computer Science & Engineering - TFW,B.E/B. Tech,Home State,Tuition Fee Waiver,12960,18120
@@ -2252,7 +2152,6 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 2251,Round 2,"Imps College of Engineering & Technology, Malda",Computer Science & Engineering,B.E/B. Tech,All India,Open,23464,49698
 2252,Round 2,"Pailan College of Management & Technology, Pailan Park",Computer Science & Engineering,B.E/B. Tech,All India,Open,14303,72986
 2253,Round 2,"Adamas University, Barasat",Computer Science & Engineering,B.E/B. Tech,All India,Open,9677,51513
-2254,Round 2,"Calcutta Institute of Engineering & Management, Tollygunge, Kolkata",Computer Science & Engineering,B.E/B. Tech,All India,Open,4082,41354
 2255,Round 2,"Elitte College of Engineering,Mahispota, Sodepur",Computer Science & Engineering,B.E/B. Tech,All India,Open,28848,60577
 2256,Round 2,"Camellia Institute of Engineering and Technology, Bud Bud, Burdwan",Computer Science & Engineering,B.E/B. Tech,All India,Open,37610,58586
 2257,Round 2,"Mckv Institute of Engineering, Liluah, Howrah",Computer Science & Engineering,B.E/B. Tech,All India,Open,9149,30973
@@ -2326,13 +2225,11 @@ Sr.No,Round,Institute,Program,Stream,Quota,Category,Opening Rank,Closing Rank
 2325,Round 2,"Kaji Nazrul University, Asansol",Computer Science & Engineering (Data Science),B.E/B. Tech,Home State,OBC - A,17942,20497
 2326,Round 2,"Kaji Nazrul University, Asansol",Computer Science & Engineering (Data Science),B.E/B. Tech,Home State,SC,16224,19771
 2327,Round 2,"Kaji Nazrul University, Asansol",Computer Science & Engineering (Data Science),B.E/B. Tech,All India,Open,7578,10197
-2328,Round 2,"Institute of Engineering & Management, Salt Lake",Computer Science & Engineering (Artificial Intelligence And Machine Learning) (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,2901,3984
 2329,Round 2,"Heritage Institute of Technology, Kolkata",Computer Science & Engineering (Data Science),B.E/B. Tech,Home State,SC,12503,12503
 2330,Round 2,"Heritage Institute of Technology, Kolkata",Computer Science & Engineering (Data Science),B.E/B. Tech,Home State,ST,67753,67753
 2331,Round 2,"Heritage Institute of Technology, Kolkata",Computer Science & Engineering (Data Science),B.E/B. Tech,All India,Open,2147,7483
 2332,Round 2,"Bengal Institute of Technology, Dhapa, Kolkata",Computer Science & Engineering (Artificial Intelligence And Machine Learning) (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,19633,20516
 2333,Round 2,"Heritage Institute of Technology, Kolkata",Computer Science & Engineering (Artificial Intelligence And Machine Learning) (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,4324,4482
-2334,Round 2,"Future Institute of Engineering & Management, Sonarpur",Computer Science & Engineering (Data Science),B.E/B. Tech,All India,Open,19175,80097
 2335,Round 2,"Narula Institute of Technology, Agarpara, Kolkata",Computer Science & Engineering (Artificial Intelligence And Machine Learning) (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,12135,21793
 2336,Round 2,"Heritage Institute of Technology, Kolkata",Biotechnology (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,5578,8896
 2337,Round 2,"Techno Engineering Collge Banipur, 24 Parganas-North",Computer Science & Engineering (Artificial Intelligence And Machine Learning) (TFW),B.E/B. Tech,Home State,Tuition Fee Waiver,8357,39708
