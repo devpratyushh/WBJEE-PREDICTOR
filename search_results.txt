@@ -1,0 +1,14 @@
+11: st.set_page_config(page_title="WBJEE College Directory", page_icon="🏫", layout="wide", initial_sidebar_state="collapsed")
+295:         <span style="color: #0F172A; font-size: 16px; font-weight: 800; letter-spacing: 0.5px; white-space: nowrap;">WBJEE Predictions</span>
+301:         ["College Directory", "Rank Predictor", "Guide"], 
+364: /* Ensure all expanders have a solid white background in Predictions */
+432:                 <h1 style="font-size: 32px; font-weight: 800; color: #0F172A; margin: 0 0 6px 0; padding: 0; letter-spacing: -0.5px;">WBJEE Rank Predictor</h1>
+452:             selected_seat_type = c_seat.selectbox("Seat Type", options=["WBJEE Seats", "JEE(Main) Seats"], key="pred_seat")
+625:                 <p style="font-size: 14px; color: #64748B; margin: 0; padding: 0; font-weight: 500;">How to use the WBJEE Predictions features.</p>
+634:             ### 📖 College Directory
+635:             The **College Directory** allows you to explore historical opening and closing ranks for all institutes participating in WBJEE counseling. 
+642:             The **Rank Predictor** utilizes an SVR (Support Vector Regression) machine learning pipeline, trained on massive historical WBJEE datasets, to mathematically predict your chances of admission into specific branches for the upcoming counseling cycle.
+662: elif app_mode == "College Directory":
+678:                 <h1 style="font-size: 32px; font-weight: 800; color: #0F172A; margin: 0 0 6px 0; padding: 0; letter-spacing: -0.5px;">WBJEE College Directory</h1>
+849:             # Fetch and append 2026 Predictions
+925:                     st.markdown(f"<h4 style='color: #059669; margin-top: 8px; margin-bottom: 8px; font-size: 18px;'><i class='fa-solid fa-wand-magic-sparkles' style='margin-right: 8px;'></i>2026 Predictions</h4>", unsafe_allow_html=True)

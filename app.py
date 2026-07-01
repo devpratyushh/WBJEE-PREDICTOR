@@ -5,9 +5,10 @@ import glob
 import numpy as np
 import streamlit.components.v1 as components
 import plotly.express as px
+import model
 
 # Page Config
-st.set_page_config(page_title="WBJEE College Directory", page_icon="🏫", layout="wide", initial_sidebar_state="collapsed")
+st.set_page_config(page_title="College Predictor", page_icon="🏫", layout="wide", initial_sidebar_state="collapsed")
 
 import io
 from xhtml2pdf import pisa
@@ -23,6 +24,21 @@ st.markdown("""
 /* ── Reset & Global ── */
 html, body, [class*="css"] { font-family: 'Inter', sans-serif !important; }
 .stApp { background-color: #F8FAFC; }
+.watermark {
+    position: fixed;
+    top: 50%; left: 50%;
+    margin-top: 5   0vh;
+    transform: translate(-50%, -50%) scale(3.5);
+    width: 90vw; height: 90vh;
+    background-image: url('https://upload.wikimedia.org/wikipedia/en/thumb/4/46/West_Bengal_Joint_Entrance_Examinations_Board_Logo.svg/500px-West_Bengal_Joint_Entrance_Examinations_Board_Logo.svg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    opacity: 0.03;
+    z-index: -1;
+    pointer-events: none;
+}
+.block-container { position: relative; z-index: 1; }
 
 /* Hide default Streamlit elements */
 #MainMenu, footer, header[data-testid="stHeader"] { display: none !important; }
@@ -115,6 +131,7 @@ div[data-testid="stSelectbox"] label p {
     display: flex; align-items: center; justify-content: center; font-size: 16px;
 }
 </style>
+<div class="watermark"></div>
 """, unsafe_allow_html=True)
 
 
@@ -289,16 +306,16 @@ c1, c2 = st.columns([1.5, 3], vertical_alignment="center")
 with c1:
     st.markdown("""
     <span id='nav-container'></span>
-    <div style="display: flex; align-items: center; gap: 14px; padding-left: 10px;">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/West_Bengal_Joint_Entrance_Examinations_Board_Logo.svg/500px-West_Bengal_Joint_Entrance_Examinations_Board_Logo.svg.png" style="height: 34px; margin-bottom: 6px;" />
-        <span style="color: #0F172A; font-size: 16px; font-weight: 800; letter-spacing: 0.5px; white-space: nowrap;">WBJEE Predictions</span>
+    <div style="display: flex; align-items: top; gap: 14px; padding-left: 10px;">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/West_Bengal_Joint_Entrance_Examinations_Board_Logo.svg/500px-West_Bengal_Joint_Entrance_Examinations_Board_Logo.svg.png" style="height: 44px; margin-bottom: 12px; ; margin-top: 2px;" />
+        <span style="color: #0F172A; font-size: 16px; font-weight: 800; letter-spacing: 0.5px; white-space: nowrap;">WBJEE Councelling Buddy</span>
     </div>
     """, unsafe_allow_html=True)
 with c2:
     app_mode = st.segmented_control(
         "Nav", 
-        ["College Directory", "Rank Predictor", "Guide"], 
-        default="Rank Predictor", 
+        ["College Opening/Closing", "College Predictor", "Guide"], 
+        default="College Predictor", 
         label_visibility="collapsed"
     )
 
@@ -420,7 +437,7 @@ div[data-testid="column"]:nth-child(4) label p::before { content: "\\f5fd"; font
 </style>
 """
 
-if app_mode == "Rank Predictor":
+if app_mode == "College Predictor":
     import model
     
     with st.container():
@@ -428,7 +445,7 @@ if app_mode == "Rank Predictor":
         st.markdown(f"""
         <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0;">
             <div>
-                <h1 style="font-size: 32px; font-weight: 800; color: #0F172A; margin: 0 0 6px 0; padding: 0; letter-spacing: -0.5px;">WBJEE Rank Predictor</h1>
+                <h1 style="font-size: 32px; font-weight: 800; color: #0F172A; margin: 0 0 6px 0; padding: 0; letter-spacing: -0.5px;">WBJEE College Predictor</h1>
                 <p style="font-size: 14px; color: #64748B; margin: 0; padding: 0; font-weight: 500;">Predict safe, match, and reach colleges based on your rank using SVR models.</p>
             </div>
             <span style="display: inline-flex; align-items: center; gap: 8px; background: #4338CA; color: #FFF; padding: 8px 16px; border-radius: 20px; font-size: 13px; font-weight: 600; box-shadow: 0 4px 12px rgba(67, 56, 202, 0.2);"><i class="fa-solid fa-robot" style="color: #A5B4FC;"></i> ML Prediction</span>
@@ -440,7 +457,7 @@ if app_mode == "Rank Predictor":
             cols = st.columns([1.5, 1.2, 1.2, 1.2])
             c_rank, c_quota, c_cat, c_seat = cols
             
-            student_rank = c_rank.number_input("Your Rank (e.g. GMR)", min_value=1, max_value=200000, value=5000, step=100)
+            student_rank = c_rank.number_input("Your Rank (GMR)", min_value=1, max_value=200000, value=5000, step=100)
             selected_quota = c_quota.selectbox("Domicile / Quota", options=ordered_quotas, key="pred_quota")
             if selected_quota == "Home State":
                 selected_category = c_cat.selectbox("Category", options=all_categories, key="pred_cat")
@@ -473,40 +490,7 @@ if app_mode == "Rank Predictor":
                         with st.container():
                             st.markdown("<span class='inner-card-marker'></span>", unsafe_allow_html=True)
                             
-                            safe_count = res_df[res_df['Status'] == 'Safe']['Institute'].nunique()
-                            match_count = res_df[res_df['Status'] == 'Match']['Institute'].nunique()
-                            reach_count = res_df[res_df['Status'] == 'Reach']['Institute'].nunique()
-                            total_count = res_df['Institute'].nunique()
-                            
-                            m1, m2, m3, m4 = st.columns(4)
-                            m1.markdown(f"""
-                            <a href="#safe-section" target="_self" style="text-decoration: none; color: inherit; display: block; border-right: 1px solid #E2E8F0; padding-right: 16px;">
-                                <div style="font-size: 14px; color: #64748B; margin-bottom: 4px;">Safe</div>
-                                <div style="font-size: 36px; color: #15803D; font-weight: 700; line-height: 1;">{safe_count}</div>
-                            </a>
-                            """, unsafe_allow_html=True)
-                            
-                            m2.markdown(f"""
-                            <a href="#match-section" target="_self" style="text-decoration: none; color: inherit; display: block; border-right: 1px solid #E2E8F0; padding-right: 16px;">
-                                <div style="font-size: 14px; color: #64748B; margin-bottom: 4px;">Match</div>
-                                <div style="font-size: 36px; color: #F59E0B; font-weight: 700; line-height: 1;">{match_count}</div>
-                            </a>
-                            """, unsafe_allow_html=True)
-                            
-                            m3.markdown(f"""
-                            <a href="#reach-section" target="_self" style="text-decoration: none; color: inherit; display: block; border-right: 1px solid #E2E8F0; padding-right: 16px;">
-                                <div style="font-size: 14px; color: #64748B; margin-bottom: 4px;">Reach</div>
-                                <div style="font-size: 36px; color: #EF4444; font-weight: 700; line-height: 1;">{reach_count}</div>
-                            </a>
-                            """, unsafe_allow_html=True)
-                            
-                            m4.markdown(f"""
-                            <div style="display: block; padding-right: 16px;">
-                                <div style="font-size: 14px; color: #64748B; margin-bottom: 4px;">Total</div>
-                                <div style="font-size: 36px; color: #0F172A; font-weight: 700; line-height: 1;">{total_count}</div>
-                            </div>
-                            """, unsafe_allow_html=True)
-                            
+                            metrics_placeholder = st.empty()
                             st.markdown("<hr style='margin: 10px 0 20px 0;'>", unsafe_allow_html=True)
                             
                             f1, f2 = st.columns(2)
@@ -526,6 +510,42 @@ if app_mode == "Rank Predictor":
                             
                     # Filter out Pharmacy (Cat_ID = 7)
                     display_df = display_df[display_df['Cat_ID'] != 7]
+                    
+                    # Calculate dynamic metrics from display_df
+                    safe_count = display_df[display_df['Status'] == 'Safe']['Institute'].nunique()
+                    match_count = display_df[display_df['Status'] == 'Match']['Institute'].nunique()
+                    reach_count = display_df[display_df['Status'] == 'Reach']['Institute'].nunique()
+                    total_count = display_df['Institute'].nunique()
+                    
+                    with metrics_placeholder.container():
+                        m1, m2, m3, m4 = st.columns(4)
+                        m1.markdown(f"""
+                        <a href="#safe-section" target="_self" style="text-decoration: none; color: inherit; display: block; border-right: 1px solid #E2E8F0; padding-right: 16px;">
+                            <div style="font-size: 14px; color: #64748B; margin-bottom: 4px;">Safe</div>
+                            <div style="font-size: 36px; color: #15803D; font-weight: 700; line-height: 1;">{safe_count}</div>
+                        </a>
+                        """, unsafe_allow_html=True)
+                        
+                        m2.markdown(f"""
+                        <a href="#match-section" target="_self" style="text-decoration: none; color: inherit; display: block; border-right: 1px solid #E2E8F0; padding-right: 16px;">
+                            <div style="font-size: 14px; color: #64748B; margin-bottom: 4px;">Match</div>
+                            <div style="font-size: 36px; color: #F59E0B; font-weight: 700; line-height: 1;">{match_count}</div>
+                        </a>
+                        """, unsafe_allow_html=True)
+                        
+                        m3.markdown(f"""
+                        <a href="#reach-section" target="_self" style="text-decoration: none; color: inherit; display: block; border-right: 1px solid #E2E8F0; padding-right: 16px;">
+                            <div style="font-size: 14px; color: #64748B; margin-bottom: 4px;">Reach</div>
+                            <div style="font-size: 36px; color: #EF4444; font-weight: 700; line-height: 1;">{reach_count}</div>
+                        </a>
+                        """, unsafe_allow_html=True)
+                        
+                        m4.markdown(f"""
+                        <div style="display: block; padding-right: 16px;">
+                            <div style="font-size: 14px; color: #64748B; margin-bottom: 4px;">Total</div>
+                            <div style="font-size: 36px; color: #0F172A; font-weight: 700; line-height: 1;">{total_count}</div>
+                        </div>
+                        """, unsafe_allow_html=True)
                             
                     def display_category_expanders(sub_df, status_color):
                         cats = sorted(sub_df['Cat_ID'].unique())
@@ -592,7 +612,7 @@ if app_mode == "Rank Predictor":
                     if not safe_df.empty:
                         with st.container():
                             st.markdown("<span id='safe-container'></span>", unsafe_allow_html=True)
-                            st.markdown(f"<h3 id='safe-section' style='color:#15803D; margin-top:0px; margin-bottom: 5px;'><i class='fa-solid fa-circle'></i> SAFE ({len(safe_df)} options)</h3>", unsafe_allow_html=True)
+                            st.markdown(f"<h3 id='safe-section' style='display: flex; align-items: center; gap: 8px; color:#15803D; margin-top:0px; margin-bottom: 5px;'><i class='fa-solid fa-circle' style='font-size: 22px;'></i> SAFE ({safe_df['Institute'].nunique()} Colleges)</h3>", unsafe_allow_html=True)
                             display_category_expanders(safe_df, "#15803D")
                                 
                     # Match
@@ -600,7 +620,7 @@ if app_mode == "Rank Predictor":
                     if not match_df.empty:
                         with st.container():
                             st.markdown("<span id='match-container'></span>", unsafe_allow_html=True)
-                            st.markdown(f"<h3 id='match-section' style='color:#F59E0B; margin-top:0px; margin-bottom: 5px;'><i class='fa-solid fa-circle'></i> MATCH ({len(match_df)} options)</h3>", unsafe_allow_html=True)
+                            st.markdown(f"<h3 id='match-section' style='display: flex; align-items: center; gap: 8px; color:#F59E0B; margin-top:0px; margin-bottom: 5px;'><i class='fa-solid fa-circle' style='font-size: 22px;'></i> MATCH ({match_df['Institute'].nunique()} Colleges)</h3>", unsafe_allow_html=True)
                             display_category_expanders(match_df, "#F59E0B")
                                 
                     # Reach
@@ -608,7 +628,7 @@ if app_mode == "Rank Predictor":
                     if not reach_df.empty:
                         with st.container():
                             st.markdown("<span id='reach-container'></span>", unsafe_allow_html=True)
-                            st.markdown(f"<h3 id='reach-section' style='color:#EF4444; margin-top:0px; margin-bottom: 5px;'><i class='fa-solid fa-circle'></i> REACH ({len(reach_df)} options)</h3>", unsafe_allow_html=True)
+                            st.markdown(f"<h3 id='reach-section' style='display: flex; align-items: center; gap: 8px; color:#EF4444; margin-top:0px; margin-bottom: 5px;'><i class='fa-solid fa-circle' style='font-size: 22px;'></i> REACH ({reach_df['Institute'].nunique()} Colleges)</h3>", unsafe_allow_html=True)
                             display_category_expanders(reach_df, "#EF4444")
 
 elif app_mode == "Guide":
@@ -627,31 +647,35 @@ elif app_mode == "Guide":
         with st.container():
             st.markdown("<span class='inner-card-marker'></span>", unsafe_allow_html=True)
             st.markdown("""
-            ### 📖 College Directory
-            The **College Directory** allows you to browse historical opening and closing ranks for all participating institutes in WBJEE. 
-            - Select your **Domicile / Quota** (Home State vs All India).
-            - Choose a specific **Year** or leave it as "All Years" to see trend data.
-            - Filter by **Category** (e.g. Open, OBC, SC) and **Seat Type**.
-            - Click any column header in the table to sort!
-            - You can **Generate a PDF Report** for any selected institute.
+            ### 📖 College Opening/Closing
+            The **College Opening/Closing** allows you to explore historical opening and closing ranks for all institutes participating in WBJEE counseling. 
+            - **Domicile / Quota Filtering:** Select your exact quota (Home State vs All India) to instantly filter out irrelevant seat types. Note: Home state students have access to specialized quotas (TFW, SC/ST, OBC-A/B) that are completely hidden for All India candidates!
+            - **Historical Trend Analysis:** Choose a specific **Year** or leave it as "All Years" to see trend data across multiple counseling cycles.
+            - **Smart Filtering:** Filter by **Category** and **Seat Type**, or use the search bars to narrow down exact **Institutes** or **Branches** (e.g., search "Computer" to find CSE/IT).
+            - **PDF Reports:** Click the blue **Generate a PDF Report** button on any institute card to instantly download a professionally formatted PDF containing that college's historical closing ranks.
 
-            ### 🔮 Rank Predictor
-            The **Rank Predictor** uses an SVR (Support Vector Regression) machine learning model, trained on previous years' cutoff data, to predict your chances of admission.
-            - Enter your **GMR Rank** and categories.
-            - The model calculates a **Safe**, **Match**, and **Reach** margin based on Mean Absolute Deviation (MAD) of historical fluctuations.
-            - **🟢 Safe:** Your rank comfortably clears the predicted cutoffs.
-            - **🟡 Match:** Your rank is borderline; admission depends on this year's demand.
-            - **🔴 Reach:** Admission is unlikely, but possible if cutoffs drop significantly.
-            
-            **Understanding the Results:**
-            The results show predictions for Round 1 (R1), Round 2 (R2), and Round 3 (R3). The format `10,500 ('25: 12,000, '24: 11,000)` means the model predicts a cutoff of 10,500 for the upcoming year, and in parenthesis you can see the actual closing ranks from 2025 and 2024.
+            ### 🔮 Machine Learning College Predictor
+            The **College Predictor** utilizes an SVR (Support Vector Regression) machine learning pipeline, trained on massive historical WBJEE datasets, to mathematically predict your chances of admission into specific branches for the upcoming counseling cycle.
+
+            **How to use:**
+            1. Enter your **Expected GMR (General Merit Rank)**.
+            2. Configure your exact **Quota** and **Category**.
+            3. The predictor will classify all available institutes into three color-coded tiers based on the model's confidence margin (MAD - Mean Absolute Deviation):
+               - **🟢 Safe:** Your rank is mathematically well within the predicted cutoffs. Admission is highly likely.
+               - **🟡 Match:** Your rank is borderline. Admission is possible but heavily depends on this year's seat matrix and student demand.
+               - **🔴 Reach:** Your rank is significantly above the predicted cutoff. Admission is unlikely unless cutoffs experience extreme fluctuations.
+
+            **Understanding the UI and Output:**
+            - **Quick Jump Metrics:** At the top of the predictor, you will see a banner containing large numbers representing your total options in each tier (Safe, Match, Reach). **Clicking on these numbers** acts as a hyperlink, instantly scrolling you down to that specific section!
+            - **Prediction Format:** The predicted cutoffs are presented in bold, followed by historical context. Example: `10,500 ('25: 12,000, '24: 11,000)`. This means the ML model predicts a Round 1 cutoff of 10,500 for the upcoming year, and provides the actual closing ranks from 2025 and 2024 in parentheses for your reference.
+            - **Institute Categorization:** To make browsing easier, colleges within each tier are grouped by type (e.g., *Top Government Engineering Colleges*, *Elite State Universities*, *Premium Private Colleges*). Expand any category to explore your predicted options!
             """)
 
 # ══════════════════════════════════════════════════════════════
 #  NESTED HERO & FILTER SECTION
 # ══════════════════════════════════════════════════════════════
 # Use session state to determine layout BEFORE creating widgets
-elif app_mode == "College Directory":
+elif app_mode == "College Opening/Closing":
     current_quota = st.session_state.get("quota_select", ordered_quotas[0] if ordered_quotas else "All India")
     current_year = st.session_state.get("year_select", years[0] if years else "")
 
@@ -667,7 +691,7 @@ elif app_mode == "College Directory":
         st.markdown(f"""
         <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0;">
             <div>
-                <h1 style="font-size: 32px; font-weight: 800; color: #0F172A; margin: 0 0 6px 0; padding: 0; letter-spacing: -0.5px;">WBJEE College Directory</h1>
+                <h1 style="font-size: 32px; font-weight: 800; color: #0F172A; margin: 0 0 6px 0; padding: 0; letter-spacing: -0.5px;">College Predictor</h1>
                 <p style="font-size: 14px; color: #64748B; margin: 0; padding: 0; font-weight: 500;">Filter cutoffs by domicile, year, institute, program and more to find exact ranks easily!</p>
             </div>
             <span style="display: inline-flex; align-items: center; gap: 8px; background: #1E293B; color: #FFF; padding: 8px 16px; border-radius: 20px; font-size: 13px; font-weight: 600; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"><i class="fa-solid fa-crown" style="color: #FBBF24;"></i> {badge_text}</span>
@@ -837,6 +861,30 @@ elif app_mode == "College Directory":
             # Clean Closing Rank to numeric
             trend_df['Closing Rank Num'] = pd.to_numeric(trend_df['Closing Rank'].astype(str).str.extract(r'(\d+)')[0], errors='coerce')
             trend_df = trend_df.dropna(subset=['Closing Rank Num'])
+            
+            # Fetch and append 2026 Predictions
+            pred_df = model.load_and_train_predictor()
+            inst_pred = pd.DataFrame()
+            if not pred_df.empty:
+                inst_pred = pred_df[(pred_df['Institute'] == selected_institute) & (pred_df['Quota'] == selected_quota)]
+                if selected_program != "--- All Programs ---":
+                    inst_pred = inst_pred[inst_pred['Program'] == selected_program]
+                if selected_category != "--- All Categories ---":
+                    inst_pred = inst_pred[inst_pred['Category'] == selected_category]
+                
+                pred_trend_rows = []
+                for _, row in inst_pred.iterrows():
+                    pred_trend_rows.append({
+                        'Year': '2026 (Pred)',
+                        'Program': row['Program'],
+                        'Category': row['Category'],
+                        'Quota': row['Quota'],
+                        'Seat Type': row['Seat Type'],
+                        'Closing Rank Num': row['Predicted Rank']
+                    })
+                if pred_trend_rows:
+                    pred_trend_df = pd.DataFrame(pred_trend_rows)
+                    trend_df = pd.concat([trend_df, pred_trend_df], ignore_index=True)
         
             if not trend_df.empty:
                 # Create a label for each line
@@ -880,11 +928,39 @@ elif app_mode == "College Directory":
 
         # Render each year
         available_years = sorted(college_df['Year'].astype(str).unique(), reverse=True) if selected_year == "All Years" else [str(selected_year)]
+        if selected_year == "All Years":
+            available_years = ['2026 (Pred)'] + available_years
     
         if not available_years:
             st.info("No data available for this combination.")
         else:
             for y in available_years:
+                if y == '2026 (Pred)':
+                    if inst_pred is None or inst_pred.empty:
+                        continue
+                    st.markdown(f"<h4 style='color: #059669; margin-top: 8px; margin-bottom: 8px; font-size: 18px;'><i class='fa-solid fa-wand-magic-sparkles' style='margin-right: 8px;'></i>2026 Predictions</h4>", unsafe_allow_html=True)
+                    disp_pred = inst_pred[['Program', 'Category', 'Seat Type', 'Predicted Rank', 'R1', 'R2', 'R3']].copy()
+                    
+                    pred_cols_config = {
+                        "Program": st.column_config.TextColumn("Program", width="large"),
+                        "Category": st.column_config.TextColumn("Category", width="medium"),
+                        "Seat Type": st.column_config.TextColumn("Seat Type", width="medium"),
+                        "Predicted Rank": st.column_config.NumberColumn("🎯 Predicted Rank", width="small", format="%,d"),
+                        "R1": st.column_config.TextColumn("R1 Context", width="medium"),
+                        "R2": st.column_config.TextColumn("R2 Context", width="medium"),
+                        "R3": st.column_config.TextColumn("R3 Context", width="medium")
+                    }
+                    
+                    styled_pred = disp_pred.style\
+                        .format({"Predicted Rank": "{:,.0f}"})\
+                        .set_properties(**{'font-weight': '600', 'color': '#0F172A'}, subset=['Program'])\
+                        .set_properties(**{'font-family': 'monospace', 'font-size': '15px', 'color': '#10B981', 'font-weight': 'bold'}, subset=['Predicted Rank'])\
+                        .set_properties(**{'font-size': '13px', 'color': '#64748B'}, subset=['R1', 'R2', 'R3'])
+                        
+                    st.dataframe(styled_pred, use_container_width=True, hide_index=True, column_config=pred_cols_config)
+                    st.markdown("<div style='margin-bottom: 32px;'></div>", unsafe_allow_html=True)
+                    continue
+                    
                 year_df = college_df[college_df['Year'] == y].copy()
                 if year_df.empty:
                     continue
