@@ -539,6 +539,17 @@ if app_mode == "College Predictor":
                     st.warning("No colleges found for this combination or rank is too high.")
                 else:
                     st.markdown("<hr style='margin: 20px 0;'>", unsafe_allow_html=True)
+                    
+                    # Policy change disclaimer
+                    st.markdown("""
+                    <div style="background: linear-gradient(135deg, #FEF3C7 0%, #FDE68A 100%); border: 1px solid #F59E0B; border-radius: 12px; padding: 14px 20px; margin-bottom: 16px; display: flex; align-items: flex-start; gap: 12px;">
+                        <i class="fa-solid fa-triangle-exclamation" style="color: #B45309; font-size: 18px; margin-top: 2px;"></i>
+                        <div>
+                            <strong style="color: #92400E; font-size: 13px;">2026 Policy Adjustment Applied</strong>
+                            <p style="color: #78350F; font-size: 12px; margin: 4px 0 0 0; line-height: 1.4;">OBC-A (10%) & OBC-B (7%) have been abolished and replaced by a single OBC (OBC-NCL) at 7%. The freed ~10% seats shift to Open/General. Predictions for Open category have been adjusted upward (~18%) to reflect increased seat availability. Actual cutoffs may still vary.</p>
+                        </div>
+                    </div>
+                    """, unsafe_allow_html=True)
                             
                     with st.container():
                         st.markdown("<span class='outer-banner-marker'></span>", unsafe_allow_html=True)

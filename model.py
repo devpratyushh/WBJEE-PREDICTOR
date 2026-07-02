@@ -181,7 +181,18 @@ def predict_colleges(rank, quota, category, seat_type, pred_df):
                  
     if df.empty:
         return df
-        
+    
+    # ── 2026 Policy Correction: Open seats increased ──
+    # OBC reservation dropped from 17% (OBC-A 10% + OBC-B 7%) → 7% (unified OBC-NCL).
+    # ~10% of total seats shifted to Open/General pool.
+    # Inflate Open category predicted ranks by ~18% to reflect higher cutoffs.
+    OPEN_SEAT_CORRECTION = 1.18
+    open_mask = df['Category'].isin(['Open', 'Open (PwD)'])
+    if open_mask.any():
+        for col in ['Predicted Rank', 'Safe Limit', 'Match Upper Limit', 'Reach Upper Limit']:
+            if col in df.columns:
+                df.loc[open_mask, col] = (df.loc[open_mask, col] * OPEN_SEAT_CORRECTION).astype(int)
+    
     df['Status'] = 'Unlikely'
     
     # Lower rank number means a better rank! 
