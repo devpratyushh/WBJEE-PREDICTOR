@@ -182,16 +182,16 @@ def predict_colleges(rank, quota, category, seat_type, pred_df):
     if df.empty:
         return df
     
-    # ── 2026 Policy Correction: Open seats increased ──
+    # ── 2026 Policy Correction: Home State Open seats increased ──
     # OBC reservation dropped from 17% (OBC-A 10% + OBC-B 7%) → 7% (unified OBC-NCL).
-    # ~10% of total seats shifted to Open/General pool.
-    # Inflate Open category predicted ranks by ~18% to reflect higher cutoffs.
+    # ~10% of Home State seats shifted to Open/General pool.
+    # Only affects Home State quota — All India is a separate fixed ~15% pool, always unreserved.
     OPEN_SEAT_CORRECTION = 1.18
-    open_mask = df['Category'].isin(['Open', 'Open (PwD)'])
-    if open_mask.any():
+    open_home_mask = df['Category'].isin(['Open', 'Open (PwD)']) & (df['Quota'] == 'Home State')
+    if open_home_mask.any():
         for col in ['Predicted Rank', 'Safe Limit', 'Match Upper Limit', 'Reach Upper Limit']:
             if col in df.columns:
-                df.loc[open_mask, col] = (df.loc[open_mask, col] * OPEN_SEAT_CORRECTION).astype(int)
+                df.loc[open_home_mask, col] = (df.loc[open_home_mask, col] * OPEN_SEAT_CORRECTION).astype(int)
     
     df['Status'] = 'Unlikely'
     

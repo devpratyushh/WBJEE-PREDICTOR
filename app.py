@@ -546,7 +546,7 @@ if app_mode == "College Predictor":
                         <i class="fa-solid fa-triangle-exclamation" style="color: #B45309; font-size: 18px; margin-top: 2px;"></i>
                         <div>
                             <strong style="color: #92400E; font-size: 13px;">2026 Policy Adjustment Applied</strong>
-                            <p style="color: #78350F; font-size: 12px; margin: 4px 0 0 0; line-height: 1.4;">OBC-A (10%) & OBC-B (7%) have been abolished and replaced by a single OBC (OBC-NCL) at 7%. The freed ~10% seats shift to Open/General. Predictions for Open category have been adjusted upward (~18%) to reflect increased seat availability. Actual cutoffs may still vary.</p>
+                            <p style="color: #78350F; font-size: 12px; margin: 4px 0 0 0; line-height: 1.4;">OBC-A (10%) & OBC-B (7%) have been abolished and replaced by a single OBC (OBC-NCL) at 7%. The freed ~10% seats shift to <strong>Home State Open/General</strong> pool — predictions for Home State Open category have been adjusted upward (~18%). All India seats are a separate fixed quota and remain unaffected. Actual cutoffs may still vary.</p>
                         </div>
                     </div>
                     """, unsafe_allow_html=True)
