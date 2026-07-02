@@ -151,23 +151,32 @@ def load_and_train_predictor():
     res_df.to_csv(pred_file, index=False)
     return res_df
 
+# 2026 category mapping: new unified names → old data names
+CATEGORY_2026_MAP = {
+    "OBC (OBC-NCL)": ["OBC - A", "OBC - B"],
+    "OBC (PwD)": ["OBC - A (PwD)", "OBC - B (PwD)"],
+}
+
 def predict_colleges(rank, quota, category, seat_type, pred_df):
     """
     Filters predictions based on student inputs and returns a DataFrame with 'Safe', 'Match', 'Reach' status.
     """
     if pred_df.empty:
         return pd.DataFrame()
+    
+    # Expand 2026 unified categories to old data names
+    data_categories = CATEGORY_2026_MAP.get(category, [category])
         
     if quota == "Home State":
         # Home state students are eligible for Home State seats (with their category) 
         # AND All India seats (which are always Open category)
         df = pred_df[
-            ((pred_df['Quota'] == "Home State") & (pred_df['Category'] == category) & (pred_df['Seat Type'] == seat_type)) |
+            ((pred_df['Quota'] == "Home State") & (pred_df['Category'].isin(data_categories)) & (pred_df['Seat Type'] == seat_type)) |
             ((pred_df['Quota'] == "All India") & (pred_df['Category'] == "Open") & (pred_df['Seat Type'] == seat_type))
         ].copy()
     else:
         df = pred_df[(pred_df['Quota'] == quota) & 
-                     (pred_df['Category'] == category) & 
+                     (pred_df['Category'].isin(data_categories)) & 
                      (pred_df['Seat Type'] == seat_type)].copy()
                  
     if df.empty:

@@ -148,6 +148,11 @@ def load_data():
             temp_df = pd.read_csv(file)
             year_str = os.path.splitext(os.path.basename(file))[0]
             temp_df['Year'] = year_str
+            # 2021/2022 CSVs don't have 'Seat Type' column — add default
+            if 'Seat Type' not in temp_df.columns:
+                temp_df['Seat Type'] = 'WBJEE Seats'
+            else:
+                temp_df['Seat Type'] = temp_df['Seat Type'].fillna('WBJEE Seats')
             df_list.append(temp_df)
         except Exception:
             pass
@@ -166,6 +171,25 @@ ordered_quotas = [q for q in ["All India", "Home State"] if q in quotas] + [q fo
 all_categories = sorted(list(df['Category'].dropna().unique()))
 years = ["All Years"] + sorted(list(df['Year'].dropna().unique()), reverse=True)
 
+# ── 2026 Category Rules ──
+# OBC-A (10%) and OBC-B (7%) abolished by Calcutta HC order + WB Legislature 2026.
+# Replaced by a single OBC (OBC-NCL) at 7%. Only 66 pre-2010 communities eligible.
+# For predictions, map new category names → old data category names.
+CATEGORY_2026_MAP = {
+    "Open": ["Open"],
+    "OBC (OBC-NCL)": ["OBC - A", "OBC - B"],
+    "SC": ["SC"],
+    "ST": ["ST"],
+    "EWS": ["EWS"],
+    "Tuition Fee Waiver": ["Tuition Fee Waiver"],
+    "Open (PwD)": ["Open (PwD)"],
+    "OBC (PwD)": ["OBC - A (PwD)", "OBC - B (PwD)"],
+    "SC (PwD)": ["SC (PwD)"],
+}
+# Only show categories that actually exist in the data
+predictor_categories = [cat for cat in CATEGORY_2026_MAP.keys()
+                        if any(old in all_categories for old in CATEGORY_2026_MAP[cat])]
+
 @st.cache_data(show_spinner=False)
 def generate_pdf(institute, df_to_print, sel_prog="--- All Programs ---", sel_cat="--- All Categories ---"):
     import matplotlib
@@ -176,25 +200,46 @@ def generate_pdf(institute, df_to_print, sel_prog="--- All Programs ---", sel_ca
     import pandas as pd
     import numpy as np
 
+    # Ensure Seat Type exists for older datasets (2021/2022)
+    if 'Seat Type' not in df_to_print.columns:
+        df_to_print = df_to_print.copy()
+        df_to_print['Seat Type'] = 'WBJEE Seats'
+    else:
+        df_to_print = df_to_print.copy()
+        df_to_print['Seat Type'] = df_to_print['Seat Type'].fillna('WBJEE Seats')
+
+    # Determine filter descriptions for subtitle
+    filter_parts = []
+    if sel_prog != "--- All Programs ---":
+        filter_parts.append(sel_prog)
+    if sel_cat != "--- All Categories ---":
+        filter_parts.append(sel_cat)
+    subtitle = " | ".join(filter_parts) if filter_parts else "All Programs & Categories"
+
     html_content = f"""
     <html>
     <head>
     <style>
-        body {{ font-family: Helvetica, sans-serif; font-size: 10px; }}
-        h1 {{ color: #1E3A8A; text-align: center; }}
-        h2 {{ color: #4338CA; margin-top: 20px; }}
-        table {{ width: 100%; border-collapse: collapse; margin-top: 10px; }}
-        th {{ background-color: #F3F4F6; color: #111827; font-weight: bold; padding: 6px; border: 1px solid #D1D5DB; text-align: left; }}
-        td {{ padding: 6px; border: 1px solid #D1D5DB; color: #374151; }}
+        @page {{ size: A4; margin: 1.2cm 1cm 1cm 1cm; }}
+        body {{ font-family: Helvetica, sans-serif; font-size: 7.5pt; color: #222; line-height: 1.2; }}
+        h1 {{ color: #1E3A8A; text-align: center; font-size: 13pt; margin: 0 0 2px 0; }}
+        .subtitle {{ text-align: center; color: #64748B; font-size: 8pt; margin-bottom: 8px; }}
+        h2 {{ color: #4338CA; font-size: 10pt; margin: 10px 0 4px 0; padding: 3px 0; border-bottom: 1px solid #E2E8F0; }}
+        table {{ width: 100%; border-collapse: collapse; margin-top: 3px; margin-bottom: 6px; }}
+        th {{ background-color: #EEF2FF; color: #1E3A8A; font-weight: bold; padding: 3px 4px; border: 0.5px solid #CBD5E1; text-align: left; font-size: 7pt; }}
+        td {{ padding: 2.5px 4px; border: 0.5px solid #E2E8F0; color: #374151; font-size: 7pt; }}
+        tr:nth-child(even) {{ background-color: #F8FAFC; }}
         .opening {{ color: #065F46; font-weight: bold; }}
         .closing {{ color: #991B1B; font-weight: bold; }}
+        .footer {{ text-align: center; color: #94A3B8; font-size: 6pt; margin-top: 12px; border-top: 0.5px solid #E2E8F0; padding-top: 4px; }}
     </style>
     </head>
     <body>
     <h1>{institute}</h1>
+    <div class="subtitle">{subtitle}</div>
     """
     
-    # Generate Graph for PDF
+    # Generate Graph for PDF (compact)
     idx_trend = df_to_print.groupby(['Year', 'Program', 'Category', 'Quota', 'Seat Type'])['Round'].idxmax()
     trend_df = df_to_print.loc[idx_trend].copy()
     
@@ -215,21 +260,22 @@ def generate_pdf(institute, df_to_print, sel_prog="--- All Programs ---", sel_ca
                 
         trend_df = trend_df.sort_values('Year')
         
-        fig, ax = plt.subplots(figsize=(7, 3.5))
+        fig, ax = plt.subplots(figsize=(6, 2.5))
         groups = trend_df.groupby('Line Label')
         count = 0
         for label, grp in groups:
-            ax.plot(grp['Year'].astype(str), grp['Closing Rank Num'], marker='o', label=label)
+            ax.plot(grp['Year'].astype(str), grp['Closing Rank Num'], marker='o', markersize=3, linewidth=1, label=label)
             count += 1
-            if count > 10:
+            if count > 8:
                 break
                 
-        ax.set_title('Cutoff Trends (Last Round)')
-        ax.set_xlabel('Year')
-        ax.set_ylabel('Closing Rank')
+        ax.set_title('Cutoff Trends (Last Round)', fontsize=8, fontweight='bold')
+        ax.set_xlabel('Year', fontsize=7)
+        ax.set_ylabel('Closing Rank', fontsize=7)
+        ax.tick_params(axis='both', labelsize=6)
         
         if count <= 6:
-            ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left', fontsize='small')
+            ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left', fontsize=5)
             
         plt.tight_layout()
         img_buf = io.BytesIO()
@@ -237,7 +283,7 @@ def generate_pdf(institute, df_to_print, sel_prog="--- All Programs ---", sel_ca
         plt.close(fig)
         
         img_b64 = base64.b64encode(img_buf.getvalue()).decode()
-        html_content += f'<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;"><img src="data:image/png;base64,{img_b64}" width="500"></div>'
+        html_content += f'<div style="text-align: center; margin: 6px 0 10px 0;"><img src="data:image/png;base64,{img_b64}" width="420"></div>'
 
     
     yrs = sorted(df_to_print['Year'].astype(str).unique(), reverse=True)
@@ -252,12 +298,20 @@ def generate_pdf(institute, df_to_print, sel_prog="--- All Programs ---", sel_ca
         year_df['_sort'] = pd.to_numeric(year_df['Closing Rank'].astype(str).str.extract(r'(\d+)')[0], errors='coerce').fillna(float('inf'))
         year_df = year_df.sort_values('_sort', ascending=True)
         
-        html_content += f"<h2>{y} Final Cutoffs</h2>"
-        html_content += "<table><thead><tr><th>Program</th><th>Category</th><th>Opening Rank</th><th>Closing Rank</th><th>Quota</th><th>Seat Type</th></tr></thead><tbody>"
+        html_content += f"<h2>{y} Final Cutoffs ({len(year_df)} entries)</h2>"
+        html_content += "<table><thead><tr><th style='width:35%'>Program</th><th>Cat</th><th>Open</th><th>Close</th><th>Quota</th><th>Seat</th></tr></thead><tbody>"
         for _, row in year_df.iterrows():
-            html_content += f"<tr><td>{row['Program']}</td><td>{row['Category']}</td><td class='opening'>{row['Opening Rank']}</td><td class='closing'>{row['Closing Rank']}</td><td>{row['Quota']}</td><td>{row['Seat Type']}</td></tr>"
+            # Truncate long program names for compactness
+            prog_name = str(row['Program'])
+            if len(prog_name) > 50:
+                prog_name = prog_name[:47] + '...'
+            seat_val = row.get('Seat Type', 'WBJEE Seats')
+            # Shorten seat type display
+            seat_short = str(seat_val).replace(' Seats', '').replace('WBJEE', 'WB').replace('JEE(Main)', 'JEE')
+            html_content += f"<tr><td>{prog_name}</td><td>{row['Category']}</td><td class='opening'>{row['Opening Rank']}</td><td class='closing'>{row['Closing Rank']}</td><td>{row['Quota']}</td><td>{seat_short}</td></tr>"
         html_content += "</tbody></table>"
         
+    html_content += '<div class="footer">Generated by WBJEE Counselling Buddy</div>'
     html_content += "</body></html>"
     
     pdf_buffer = io.BytesIO()
@@ -460,7 +514,8 @@ if app_mode == "College Predictor":
             student_rank = c_rank.number_input("Your Rank (GMR)", min_value=1, max_value=200000, value=5000, step=100)
             selected_quota = c_quota.selectbox("Domicile / Quota", options=ordered_quotas, key="pred_quota")
             if selected_quota == "Home State":
-                selected_category = c_cat.selectbox("Category", options=all_categories, key="pred_cat")
+                selected_category = c_cat.selectbox("Category", options=predictor_categories, key="pred_cat",
+                                                     help="OBC-A & OBC-B merged into OBC (OBC-NCL) per 2026 WB rules")
             else:
                 selected_category = "Open"
                 c_cat.selectbox("Category", options=["Open"], disabled=True, key="pred_cat")
