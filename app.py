@@ -240,8 +240,12 @@ def generate_pdf(institute, df_to_print, sel_prog="--- All Programs ---", sel_ca
     """
     
     # Generate Graph for PDF (compact)
-    idx_trend = df_to_print.groupby(['Year', 'Program', 'Category', 'Quota', 'Seat Type'])['Round'].idxmax()
-    trend_df = df_to_print.loc[idx_trend].copy()
+    trend_data = df_to_print.dropna(subset=['Round'])
+    if not trend_data.empty:
+        idx_trend = trend_data.groupby(['Year', 'Program', 'Category', 'Quota', 'Seat Type'])['Round'].idxmax()
+        trend_df = trend_data.loc[idx_trend].copy()
+    else:
+        trend_df = pd.DataFrame()
     
     if sel_prog != "--- All Programs ---":
         trend_df = trend_df[trend_df['Program'] == sel_prog]
@@ -292,6 +296,9 @@ def generate_pdf(institute, df_to_print, sel_prog="--- All Programs ---", sel_ca
         if year_df.empty:
             continue
             
+        year_df = year_df.dropna(subset=['Round'])
+        if year_df.empty:
+            continue
         idx = year_df.groupby(['Program', 'Category', 'Quota', 'Seat Type'])['Round'].idxmax()
         year_df = year_df.loc[idx].copy()
         
