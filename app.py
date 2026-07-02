@@ -898,7 +898,8 @@ elif app_mode == "College Opening/Closing":
         
         with col_metrics:
             # Calculate stats based on last available round for each program
-            idx = college_df.groupby(['Year', 'Program', 'Category', 'Quota', 'Seat Type'])['Round'].idxmax()
+            valid_college_df = college_df.dropna(subset=['Round'])
+            idx = valid_college_df.groupby(['Year', 'Program', 'Category', 'Quota', 'Seat Type'])['Round'].idxmax()
             stat_df = college_df.loc[idx]
             
             clean_closing = stat_df['Closing Rank'].astype(str).str.extract(r'(\d+)')[0]
@@ -924,8 +925,9 @@ elif app_mode == "College Opening/Closing":
             st.markdown("<h4 style='color: #4338CA; margin-top: 16px; margin-bottom: 16px; font-size: 18px;'><i class='fa-solid fa-chart-line' style='margin-right: 8px;'></i>Cutoff Trends (Last Round)</h4>", unsafe_allow_html=True)
         
             # Get last round for each year-program-category-quota combination
-            idx_trend = college_df.groupby(['Year', 'Program', 'Category', 'Quota', 'Seat Type'])['Round'].idxmax()
-            trend_df = college_df.loc[idx_trend].copy()
+            valid_trend_df = college_df.dropna(subset=['Round'])
+            idx_trend = valid_trend_df.groupby(['Year', 'Program', 'Category', 'Quota', 'Seat Type'])['Round'].idxmax()
+            trend_df = valid_trend_df.loc[idx_trend].copy()
         
             # Filter by selected program if any
             if selected_program != "--- All Programs ---":
