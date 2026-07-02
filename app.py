@@ -878,23 +878,18 @@ elif app_mode == "College Opening/Closing":
                 """, unsafe_allow_html=True)
             with title_col2:
                 import re
-                import base64
-            
-                with st.popover("📄 Export PDF", use_container_width=True):
-                    with st.spinner("Generating..."):
-                        pdf_bytes = generate_pdf(selected_institute, college_df, selected_program, selected_category)
-                        safe_name = re.sub(r'[^a-zA-Z0-9_\-]', '_', selected_institute[:30].strip())
-                        b64 = base64.b64encode(pdf_bytes).decode()
-                    
-                        href = f'''
-                        <a href="data:application/pdf;base64,{b64}" download="{safe_name}_Cutoffs.pdf" 
-                           style="display: block; width: 100%; padding: 8px 0px; background-color: #10B981; 
-                                  color: white; text-decoration: none; border-radius: 8px; font-weight: 600; text-align: center;
-                                  box-shadow: 0 4px 6px rgba(21, 128, 61, 0.2); font-family: sans-serif;">
-                            📥 Click Here to Save
-                        </a>
-                        '''
-                        st.markdown(href, unsafe_allow_html=True)
+                
+                pdf_bytes = generate_pdf(selected_institute, college_df, selected_program, selected_category)
+                safe_name = re.sub(r'[^a-zA-Z0-9_\-]', '_', selected_institute[:30].strip())
+                
+                st.download_button(
+                    label="📄 Export PDF",
+                    data=pdf_bytes,
+                    file_name=f"{safe_name}_Cutoffs.pdf",
+                    mime="application/pdf",
+                    use_container_width=True,
+                    type="primary"
+                )
         
         with col_metrics:
             # Calculate stats based on last available round for each program
